@@ -1,0 +1,21 @@
+# Variáveis de ambiente
+.env
+application.local.properties
+
+# Arquivos de compilação
+bin/
+*.class
+
+# Java
+*.jar
+*.war
+*.ear
+
+# IDE
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+# Logs
+*.log

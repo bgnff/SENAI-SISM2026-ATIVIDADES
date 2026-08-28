@@ -1,0 +1,10 @@
+CREATE DEFINER=`root`@`localhost` PROCEDURE `sp_AniversariantesDoMes`()
+BEGIN
+
+SELECT EmployeeID AS 'ID DO FUNCIONARIO',
+CONCAT(FirstName,' ',LastName) AS 'NOME DO FUNCIONARIO',
+TIMESTAMPDIFF(YEAR, BirthDate, CURDATE()) AS 'IDADE'
+FROM Employees
+WHERE MONTH(BirthDate) = MONTH(CURDATE());
+
+END

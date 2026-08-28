@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zBray\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-DesbravandoDaPrograma\u00E7\u00E3oComC#\\Fase5 - Estruturas Condicionais\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9B01B57-B86D-4173-90FF-C67DA036AC09}|Fase5 - Estruturas Condicionais\\Fase5 - Estruturas Condicionais.csproj|c:\\users\\zbray\\desktop\\senai-sism2026-atividades\\c#-activities\\c#-desbravandodaprograma\u00E7\u00E3ocomc#\\fase5 - estruturas condicionais\\fase5 - estruturas condicionais\\fase5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9B01B57-B86D-4173-90FF-C67DA036AC09}|Fase5 - Estruturas Condicionais\\Fase5 - Estruturas Condicionais.csproj|solutionrelative:fase5 - estruturas condicionais\\fase5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fase5.cs",
+              "DocumentMoniker": "C:\\Users\\zBray\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-DesbravandoDaPrograma\u00E7\u00E3oComC#\\Fase5 - Estruturas Condicionais\\Fase5 - Estruturas Condicionais\\Fase5.cs",
+              "RelativeDocumentMoniker": "Fase5 - Estruturas Condicionais\\Fase5.cs",
+              "ToolTip": "C:\\Users\\zBray\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-DesbravandoDaPrograma\u00E7\u00E3oComC#\\Fase5 - Estruturas Condicionais\\Fase5 - Estruturas Condicionais\\Fase5.cs",
+              "RelativeToolTip": "Fase5 - Estruturas Condicionais\\Fase5.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T14:09:21.968Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

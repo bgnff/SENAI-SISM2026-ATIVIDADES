@@ -1,0 +1,15 @@
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase6 - For\Fase6 - For\bin\Debug\net10.0\Fase6 - For.exe
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase6 - For\Fase6 - For\bin\Debug\net10.0\Fase6 - For.deps.json
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase6 - For\Fase6 - For\bin\Debug\net10.0\Fase6 - For.runtimeconfig.json
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase6 - For\Fase6 - For\bin\Debug\net10.0\Fase6 - For.dll
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase6 - For\Fase6 - For\bin\Debug\net10.0\Fase6 - For.pdb
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase6 - For\Fase6 - For\obj\Debug\net10.0\Fase6 - For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase6 - For\Fase6 - For\obj\Debug\net10.0\Fase6 - For.AssemblyInfoInputs.cache
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase6 - For\Fase6 - For\obj\Debug\net10.0\Fase6 - For.AssemblyInfo.cs
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase6 - For\Fase6 - For\obj\Debug\net10.0\Fase6 - For.csproj.CoreCompileInputs.cache
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase6 - For\Fase6 - For\obj\Debug\net10.0\Fase6 - For.sourcelink.json
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase6 - For\Fase6 - For\obj\Debug\net10.0\Fase6 - For.dll
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase6 - For\Fase6 - For\obj\Debug\net10.0\refint\Fase6 - For.dll
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase6 - For\Fase6 - For\obj\Debug\net10.0\Fase6 - For.pdb
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase6 - For\Fase6 - For\obj\Debug\net10.0\Fase6 - For.genruntimeconfig.cache
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase6 - For\Fase6 - For\obj\Debug\net10.0\ref\Fase6 - For.dll

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.IdeiasController" styleClass="main-background">
+    
+    <left>
+        <VBox styleClass="sidebar" spacing="10">
+            <padding>
+                <Insets top="20" right="20" bottom="20" left="20"/>
+            </padding>
+            
+            <Label text="⚡ EcoEnergy" styleClass="sidebar-title"/>
+            <Label styleClass="sidebar-separator"/>
+            
+            <Button text="🏠 Dashboard" styleClass="sidebar-menu-item" onAction="#irParaDashboard"/>
+            <Button text="🏢 Ambientes" styleClass="sidebar-menu-item" onAction="#irParaAmbientes"/>
+            <Button text="⚡ Equipamentos" styleClass="sidebar-menu-item" onAction="#irParaEquipamentos"/>
+            <Button text="➕ Cadastro" styleClass="sidebar-menu-item" onAction="#irParaCadastro"/>
+            <Button text="📊 Relatórios" styleClass="sidebar-menu-item" onAction="#irParaRelatorios"/>
+            <Button text="🌱 Simulação" styleClass="sidebar-menu-item" onAction="#irParaSimulacao"/>
+            <Button text="💡 Ideias de Economia" styleClass="sidebar-menu-item" onAction="#irParaIdeias"/>
+            
+            <Label styleClass="sidebar-separator"/>
+            <Button text="❌ Sair" styleClass="sidebar-menu-item" onAction="#sair"/>
+        </VBox>
+    </left>
+    
+    <center>
+        <VBox styleClass="main-content" spacing="30" alignment="CENTER">
+            
+            <Label text="💡 Ideias de Economia com IA" styleClass="label-title"/>
+            
+            <VBox styleClass="card" spacing="20" style="-fx-pref-width: 700px; -fx-padding: 40px;">
+                
+                <VBox spacing="8">
+                    <Label text="Selecione o Ambiente" styleClass="label-field"/>
+                    <ComboBox fx:id="comboAmbiente" promptText="Selecione um ambiente" styleClass="combo-box" prefWidth="620"/>
+                </VBox>
+                
+                <HBox spacing="15" alignment="CENTER" style="-fx-padding-top: 10px;">
+                    <Button text="🤖 Gerar Ideia com IA" styleClass="button-primary" onAction="#gerarIdeia" prefWidth="200"/>
+                    <Button text="Limpar" styleClass="button-secondary" onAction="#limpar" prefWidth="150"/>
+                </HBox>
+                
+                <VBox spacing="8" style="-fx-padding-top: 20px;">
+                    <Label text="Sugestão da IA" styleClass="label-field"/>
+                    <TextArea fx:id="txtSugestao" editable="false" wrapText="true" styleClass="text-area" prefRowCount="8" prefWidth="620"/>
+                </VBox>
+                
+                <Label fx:id="lblStatus" text="Aguardando geração..." styleClass="label-small" style="-fx-text-fill: #9CA3AF;"/>
+                
+            </VBox>
+            
+        </VBox>
+    </center>
+    
+</BorderPane>

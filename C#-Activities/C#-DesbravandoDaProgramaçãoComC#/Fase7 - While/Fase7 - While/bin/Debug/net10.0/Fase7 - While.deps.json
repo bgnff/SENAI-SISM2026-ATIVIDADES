@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Fase7 - While/1.0.0": {
+        "runtime": {
+          "Fase7 - While.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fase7 - While/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

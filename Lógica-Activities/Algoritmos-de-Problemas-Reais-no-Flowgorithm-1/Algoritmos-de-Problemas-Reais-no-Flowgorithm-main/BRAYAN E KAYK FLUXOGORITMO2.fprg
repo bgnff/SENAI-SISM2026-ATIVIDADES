@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="BRAYAN E KAYK FLUXOGORITMO2"/>
+        <attribute name="authors" value="Aluno_Manha"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-02-09 11:14:57 "/>
+        <attribute name="created" value="QWx1bm9fTWFuaGE7U0JCMlMyMDczODA7MjAyNi0wMi0wOTsiMTA6NTk6MzcgIjsyOTQ4"/>
+        <attribute name="edited" value="QWx1bm9fTWFuaGE7U0JCMlMyMDczODA7MjAyNi0wMi0wOTsiMTE6MTQ6NTcgIjsxOzMwNTA="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Temperatura" type="Integer" array="False" size=""/>
+            <output expression="&quot;Temperatura:&quot;" newline="True"/>
+            <input variable="Temperatura"/>
+            <if expression="Temperatura &lt;=18">
+                <then>
+                    <output expression="&quot;Ligar o aquecedor.&quot;" newline="True"/>
+                </then>
+                <else>
+                    <if expression="Temperatura &gt;= 18 &amp;&amp; Temperatura &lt;= 25">
+                        <then>
+                            <output expression="&quot;Manter temperatura atual&quot;" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="&quot;Ligar o ar condicionado.&quot;" newline="True"/>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

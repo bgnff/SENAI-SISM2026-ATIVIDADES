@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zBray\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista01-Primeiros Exercicios\\Atividade B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B54D7E76-CC12-4109-9D92-BFDCC0EFD446}|Atividade B\\Atividade B.csproj|c:\\users\\zbray\\desktop\\senai-sism2026-atividades\\c#-activities\\c#-lista01-primeiros exercicios\\atividade b\\atividade b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B54D7E76-CC12-4109-9D92-BFDCC0EFD446}|Atividade B\\Atividade B.csproj|solutionrelative:atividade b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zBray\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista01-Primeiros Exercicios\\Atividade B\\Atividade B\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade B\\Program.cs",
+              "ToolTip": "C:\\Users\\zBray\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista01-Primeiros Exercicios\\Atividade B\\Atividade B\\Program.cs",
+              "RelativeToolTip": "Atividade B\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T22:07:38.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

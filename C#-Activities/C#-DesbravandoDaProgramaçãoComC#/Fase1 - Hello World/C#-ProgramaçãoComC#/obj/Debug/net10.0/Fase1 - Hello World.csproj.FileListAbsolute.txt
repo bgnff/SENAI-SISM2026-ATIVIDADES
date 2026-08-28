@@ -1,0 +1,15 @@
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase1 - Hello World\C#-ProgramaçãoComC#\bin\Debug\net10.0\Fase1 - Hello World.exe
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase1 - Hello World\C#-ProgramaçãoComC#\bin\Debug\net10.0\Fase1 - Hello World.deps.json
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase1 - Hello World\C#-ProgramaçãoComC#\bin\Debug\net10.0\Fase1 - Hello World.runtimeconfig.json
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase1 - Hello World\C#-ProgramaçãoComC#\bin\Debug\net10.0\Fase1 - Hello World.dll
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase1 - Hello World\C#-ProgramaçãoComC#\bin\Debug\net10.0\Fase1 - Hello World.pdb
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase1 - Hello World\C#-ProgramaçãoComC#\obj\Debug\net10.0\Fase1 - Hello World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase1 - Hello World\C#-ProgramaçãoComC#\obj\Debug\net10.0\Fase1 - Hello World.AssemblyInfoInputs.cache
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase1 - Hello World\C#-ProgramaçãoComC#\obj\Debug\net10.0\Fase1 - Hello World.AssemblyInfo.cs
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase1 - Hello World\C#-ProgramaçãoComC#\obj\Debug\net10.0\Fase1 - Hello World.csproj.CoreCompileInputs.cache
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase1 - Hello World\C#-ProgramaçãoComC#\obj\Debug\net10.0\Fase1 - Hello World.sourcelink.json
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase1 - Hello World\C#-ProgramaçãoComC#\obj\Debug\net10.0\Fase1 - Hello World.dll
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase1 - Hello World\C#-ProgramaçãoComC#\obj\Debug\net10.0\refint\Fase1 - Hello World.dll
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase1 - Hello World\C#-ProgramaçãoComC#\obj\Debug\net10.0\Fase1 - Hello World.pdb
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase1 - Hello World\C#-ProgramaçãoComC#\obj\Debug\net10.0\Fase1 - Hello World.genruntimeconfig.cache
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase1 - Hello World\C#-ProgramaçãoComC#\obj\Debug\net10.0\ref\Fase1 - Hello World.dll

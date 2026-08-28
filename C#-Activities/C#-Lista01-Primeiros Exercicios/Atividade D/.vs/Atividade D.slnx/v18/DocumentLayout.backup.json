@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zBray\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista01-Primeiros Exercicios\\Atividade D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E32B0397-A063-4BCE-9A89-E9FF01BFEF7F}|Atividade D\\Atividade D.csproj|c:\\users\\zbray\\desktop\\senai-sism2026-atividades\\c#-activities\\c#-lista01-primeiros exercicios\\atividade d\\atividade d\\d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E32B0397-A063-4BCE-9A89-E9FF01BFEF7F}|Atividade D\\Atividade D.csproj|solutionrelative:atividade d\\d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "D.cs",
+              "DocumentMoniker": "C:\\Users\\zBray\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista01-Primeiros Exercicios\\Atividade D\\Atividade D\\D.cs",
+              "RelativeDocumentMoniker": "Atividade D\\D.cs",
+              "ToolTip": "C:\\Users\\zBray\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista01-Primeiros Exercicios\\Atividade D\\Atividade D\\D.cs",
+              "RelativeToolTip": "Atividade D\\D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T22:41:52.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

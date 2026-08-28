@@ -1,0 +1,15 @@
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase8 - Metodos\Fase8 - Metodos\bin\Debug\net10.0\Fase8 - Metodos.exe
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase8 - Metodos\Fase8 - Metodos\bin\Debug\net10.0\Fase8 - Metodos.deps.json
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase8 - Metodos\Fase8 - Metodos\bin\Debug\net10.0\Fase8 - Metodos.runtimeconfig.json
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase8 - Metodos\Fase8 - Metodos\bin\Debug\net10.0\Fase8 - Metodos.dll
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase8 - Metodos\Fase8 - Metodos\bin\Debug\net10.0\Fase8 - Metodos.pdb
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase8 - Metodos\Fase8 - Metodos\obj\Debug\net10.0\Fase8 - Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase8 - Metodos\Fase8 - Metodos\obj\Debug\net10.0\Fase8 - Metodos.AssemblyInfoInputs.cache
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase8 - Metodos\Fase8 - Metodos\obj\Debug\net10.0\Fase8 - Metodos.AssemblyInfo.cs
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase8 - Metodos\Fase8 - Metodos\obj\Debug\net10.0\Fase8 - Metodos.csproj.CoreCompileInputs.cache
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase8 - Metodos\Fase8 - Metodos\obj\Debug\net10.0\Fase8 - Metodos.sourcelink.json
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase8 - Metodos\Fase8 - Metodos\obj\Debug\net10.0\Fase8 - Metodos.dll
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase8 - Metodos\Fase8 - Metodos\obj\Debug\net10.0\refint\Fase8 - Metodos.dll
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase8 - Metodos\Fase8 - Metodos\obj\Debug\net10.0\Fase8 - Metodos.pdb
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase8 - Metodos\Fase8 - Metodos\obj\Debug\net10.0\Fase8 - Metodos.genruntimeconfig.cache
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase8 - Metodos\Fase8 - Metodos\obj\Debug\net10.0\ref\Fase8 - Metodos.dll

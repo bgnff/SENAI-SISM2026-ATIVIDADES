@@ -1,0 +1,15 @@
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase7 - While\Fase7 - While\bin\Debug\net10.0\Fase7 - While.exe
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase7 - While\Fase7 - While\bin\Debug\net10.0\Fase7 - While.deps.json
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase7 - While\Fase7 - While\bin\Debug\net10.0\Fase7 - While.runtimeconfig.json
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase7 - While\Fase7 - While\bin\Debug\net10.0\Fase7 - While.dll
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase7 - While\Fase7 - While\bin\Debug\net10.0\Fase7 - While.pdb
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase7 - While\Fase7 - While\obj\Debug\net10.0\Fase7 - While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase7 - While\Fase7 - While\obj\Debug\net10.0\Fase7 - While.AssemblyInfoInputs.cache
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase7 - While\Fase7 - While\obj\Debug\net10.0\Fase7 - While.AssemblyInfo.cs
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase7 - While\Fase7 - While\obj\Debug\net10.0\Fase7 - While.csproj.CoreCompileInputs.cache
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase7 - While\Fase7 - While\obj\Debug\net10.0\Fase7 - While.sourcelink.json
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase7 - While\Fase7 - While\obj\Debug\net10.0\Fase7 - While.dll
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase7 - While\Fase7 - While\obj\Debug\net10.0\refint\Fase7 - While.dll
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase7 - While\Fase7 - While\obj\Debug\net10.0\Fase7 - While.pdb
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase7 - While\Fase7 - While\obj\Debug\net10.0\Fase7 - While.genruntimeconfig.cache
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase7 - While\Fase7 - While\obj\Debug\net10.0\ref\Fase7 - While.dll

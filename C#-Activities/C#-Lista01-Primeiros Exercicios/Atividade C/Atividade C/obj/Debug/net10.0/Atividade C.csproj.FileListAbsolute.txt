@@ -1,0 +1,14 @@
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista01-Primeiros Exercicios\Atividade C\Atividade C\bin\Debug\net10.0\Atividade C.exe
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista01-Primeiros Exercicios\Atividade C\Atividade C\bin\Debug\net10.0\Atividade C.deps.json
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista01-Primeiros Exercicios\Atividade C\Atividade C\bin\Debug\net10.0\Atividade C.runtimeconfig.json
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista01-Primeiros Exercicios\Atividade C\Atividade C\bin\Debug\net10.0\Atividade C.dll
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista01-Primeiros Exercicios\Atividade C\Atividade C\bin\Debug\net10.0\Atividade C.pdb
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista01-Primeiros Exercicios\Atividade C\Atividade C\obj\Debug\net10.0\Atividade C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista01-Primeiros Exercicios\Atividade C\Atividade C\obj\Debug\net10.0\Atividade C.AssemblyInfoInputs.cache
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista01-Primeiros Exercicios\Atividade C\Atividade C\obj\Debug\net10.0\Atividade C.AssemblyInfo.cs
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista01-Primeiros Exercicios\Atividade C\Atividade C\obj\Debug\net10.0\Atividade C.csproj.CoreCompileInputs.cache
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista01-Primeiros Exercicios\Atividade C\Atividade C\obj\Debug\net10.0\Atividade C.dll
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista01-Primeiros Exercicios\Atividade C\Atividade C\obj\Debug\net10.0\refint\Atividade C.dll
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista01-Primeiros Exercicios\Atividade C\Atividade C\obj\Debug\net10.0\Atividade C.pdb
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista01-Primeiros Exercicios\Atividade C\Atividade C\obj\Debug\net10.0\Atividade C.genruntimeconfig.cache
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista01-Primeiros Exercicios\Atividade C\Atividade C\obj\Debug\net10.0\ref\Atividade C.dll

@@ -1,0 +1,15 @@
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\C#-ProgramaçãoComC#\C#-ProgramaçãoComC#\bin\Debug\net10.0\C#-ProgramaçãoComC#.exe
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\C#-ProgramaçãoComC#\C#-ProgramaçãoComC#\bin\Debug\net10.0\C#-ProgramaçãoComC#.deps.json
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\C#-ProgramaçãoComC#\C#-ProgramaçãoComC#\bin\Debug\net10.0\C#-ProgramaçãoComC#.runtimeconfig.json
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\C#-ProgramaçãoComC#\C#-ProgramaçãoComC#\bin\Debug\net10.0\C#-ProgramaçãoComC#.dll
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\C#-ProgramaçãoComC#\C#-ProgramaçãoComC#\bin\Debug\net10.0\C#-ProgramaçãoComC#.pdb
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\C#-ProgramaçãoComC#\C#-ProgramaçãoComC#\obj\Debug\net10.0\C#-ProgramaçãoComC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\C#-ProgramaçãoComC#\C#-ProgramaçãoComC#\obj\Debug\net10.0\C#-ProgramaçãoComC#.AssemblyInfoInputs.cache
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\C#-ProgramaçãoComC#\C#-ProgramaçãoComC#\obj\Debug\net10.0\C#-ProgramaçãoComC#.AssemblyInfo.cs
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\C#-ProgramaçãoComC#\C#-ProgramaçãoComC#\obj\Debug\net10.0\C#-ProgramaçãoComC#.csproj.CoreCompileInputs.cache
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\C#-ProgramaçãoComC#\C#-ProgramaçãoComC#\obj\Debug\net10.0\C#-ProgramaçãoComC#.sourcelink.json
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\C#-ProgramaçãoComC#\C#-ProgramaçãoComC#\obj\Debug\net10.0\C#-ProgramaçãoComC#.dll
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\C#-ProgramaçãoComC#\C#-ProgramaçãoComC#\obj\Debug\net10.0\refint\C#-ProgramaçãoComC#.dll
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\C#-ProgramaçãoComC#\C#-ProgramaçãoComC#\obj\Debug\net10.0\C#-ProgramaçãoComC#.pdb
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\C#-ProgramaçãoComC#\C#-ProgramaçãoComC#\obj\Debug\net10.0\C#-ProgramaçãoComC#.genruntimeconfig.cache
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\C#-ProgramaçãoComC#\C#-ProgramaçãoComC#\obj\Debug\net10.0\ref\C#-ProgramaçãoComC#.dll

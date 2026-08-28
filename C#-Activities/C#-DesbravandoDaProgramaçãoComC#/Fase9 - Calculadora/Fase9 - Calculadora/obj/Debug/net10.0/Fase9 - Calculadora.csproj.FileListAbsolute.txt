@@ -1,0 +1,15 @@
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase9 - Calculadora\Fase9 - Calculadora\obj\Debug\net10.0\Fase9 - Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase9 - Calculadora\Fase9 - Calculadora\obj\Debug\net10.0\Fase9 - Calculadora.AssemblyInfoInputs.cache
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase9 - Calculadora\Fase9 - Calculadora\obj\Debug\net10.0\Fase9 - Calculadora.AssemblyInfo.cs
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase9 - Calculadora\Fase9 - Calculadora\obj\Debug\net10.0\Fase9 - Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase9 - Calculadora\Fase9 - Calculadora\obj\Debug\net10.0\Fase9 - Calculadora.sourcelink.json
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase9 - Calculadora\Fase9 - Calculadora\bin\Debug\net10.0\Fase9 - Calculadora.exe
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase9 - Calculadora\Fase9 - Calculadora\bin\Debug\net10.0\Fase9 - Calculadora.deps.json
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase9 - Calculadora\Fase9 - Calculadora\bin\Debug\net10.0\Fase9 - Calculadora.runtimeconfig.json
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase9 - Calculadora\Fase9 - Calculadora\bin\Debug\net10.0\Fase9 - Calculadora.dll
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase9 - Calculadora\Fase9 - Calculadora\bin\Debug\net10.0\Fase9 - Calculadora.pdb
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase9 - Calculadora\Fase9 - Calculadora\obj\Debug\net10.0\Fase9 - Calculadora.dll
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase9 - Calculadora\Fase9 - Calculadora\obj\Debug\net10.0\refint\Fase9 - Calculadora.dll
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase9 - Calculadora\Fase9 - Calculadora\obj\Debug\net10.0\Fase9 - Calculadora.pdb
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase9 - Calculadora\Fase9 - Calculadora\obj\Debug\net10.0\Fase9 - Calculadora.genruntimeconfig.cache
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase9 - Calculadora\Fase9 - Calculadora\obj\Debug\net10.0\ref\Fase9 - Calculadora.dll

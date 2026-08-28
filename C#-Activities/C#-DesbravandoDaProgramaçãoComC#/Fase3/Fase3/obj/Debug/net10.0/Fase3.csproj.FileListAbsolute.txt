@@ -1,0 +1,15 @@
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase3\Fase3\bin\Debug\net10.0\Fase3.exe
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase3\Fase3\bin\Debug\net10.0\Fase3.deps.json
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase3\Fase3\bin\Debug\net10.0\Fase3.runtimeconfig.json
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase3\Fase3\bin\Debug\net10.0\Fase3.dll
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase3\Fase3\bin\Debug\net10.0\Fase3.pdb
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase3\Fase3\obj\Debug\net10.0\Fase3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase3\Fase3\obj\Debug\net10.0\Fase3.AssemblyInfoInputs.cache
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase3\Fase3\obj\Debug\net10.0\Fase3.AssemblyInfo.cs
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase3\Fase3\obj\Debug\net10.0\Fase3.csproj.CoreCompileInputs.cache
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase3\Fase3\obj\Debug\net10.0\Fase3.sourcelink.json
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase3\Fase3\obj\Debug\net10.0\Fase3.dll
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase3\Fase3\obj\Debug\net10.0\refint\Fase3.dll
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase3\Fase3\obj\Debug\net10.0\Fase3.pdb
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase3\Fase3\obj\Debug\net10.0\Fase3.genruntimeconfig.cache
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase3\Fase3\obj\Debug\net10.0\ref\Fase3.dll

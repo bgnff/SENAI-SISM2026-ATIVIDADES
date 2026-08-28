@@ -1,0 +1,14 @@
+C:\Users\zBray\source\repos\Primeiro Projeto em C#\Primeiro Projeto em C#\bin\Debug\net10.0\Primeiro Projeto em C#.exe
+C:\Users\zBray\source\repos\Primeiro Projeto em C#\Primeiro Projeto em C#\bin\Debug\net10.0\Primeiro Projeto em C#.deps.json
+C:\Users\zBray\source\repos\Primeiro Projeto em C#\Primeiro Projeto em C#\bin\Debug\net10.0\Primeiro Projeto em C#.runtimeconfig.json
+C:\Users\zBray\source\repos\Primeiro Projeto em C#\Primeiro Projeto em C#\bin\Debug\net10.0\Primeiro Projeto em C#.dll
+C:\Users\zBray\source\repos\Primeiro Projeto em C#\Primeiro Projeto em C#\bin\Debug\net10.0\Primeiro Projeto em C#.pdb
+C:\Users\zBray\source\repos\Primeiro Projeto em C#\Primeiro Projeto em C#\obj\Debug\net10.0\Primeiro Projeto em C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zBray\source\repos\Primeiro Projeto em C#\Primeiro Projeto em C#\obj\Debug\net10.0\Primeiro Projeto em C#.AssemblyInfoInputs.cache
+C:\Users\zBray\source\repos\Primeiro Projeto em C#\Primeiro Projeto em C#\obj\Debug\net10.0\Primeiro Projeto em C#.AssemblyInfo.cs
+C:\Users\zBray\source\repos\Primeiro Projeto em C#\Primeiro Projeto em C#\obj\Debug\net10.0\Primeiro Projeto em C#.csproj.CoreCompileInputs.cache
+C:\Users\zBray\source\repos\Primeiro Projeto em C#\Primeiro Projeto em C#\obj\Debug\net10.0\Primeiro Projeto em C#.dll
+C:\Users\zBray\source\repos\Primeiro Projeto em C#\Primeiro Projeto em C#\obj\Debug\net10.0\refint\Primeiro Projeto em C#.dll
+C:\Users\zBray\source\repos\Primeiro Projeto em C#\Primeiro Projeto em C#\obj\Debug\net10.0\Primeiro Projeto em C#.pdb
+C:\Users\zBray\source\repos\Primeiro Projeto em C#\Primeiro Projeto em C#\obj\Debug\net10.0\Primeiro Projeto em C#.genruntimeconfig.cache
+C:\Users\zBray\source\repos\Primeiro Projeto em C#\Primeiro Projeto em C#\obj\Debug\net10.0\ref\Primeiro Projeto em C#.dll

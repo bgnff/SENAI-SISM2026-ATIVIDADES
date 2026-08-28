@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="BRAYAN E KAYK FLUXOGORITIMO"/>
+        <attribute name="authors" value="Aluno_Manha"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2026-02-09 10:59:22 "/>
+        <attribute name="created" value="QWx1bm9fTWFuaGE7U0JCMlMyMDczODA7MjAyNi0wMi0wOTsiMTA6MTM6MjUgIjsyOTM1"/>
+        <attribute name="edited" value="QWx1bm9fTWFuaGE7U0JCMlMyMDczODA7MjAyNi0wMi0wOTsiMTA6NTk6MjIgIjsxOzMwNTA="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="compra" type="Real" array="False" size=""/>
+            <output expression="&quot;Insira o valor da compra&quot;" newline="True"/>
+            <input variable="compra"/>
+            <output expression="&quot;Compra realizada!&quot;" newline="True"/>
+            <if expression="Compra &lt;=200">
+                <then>
+                    <output expression="&quot;Desconto de 5%&quot;" newline="True"/>
+                    <output expression="&quot;Valor do desconto:&quot;" newline="True"/>
+                    <output expression="compra *0.05" newline="True"/>
+                    <output expression="&quot;Valor Final:&quot;" newline="True"/>
+                    <output expression="compra - compra *0.05" newline="True"/>
+                </then>
+                <else>
+                    <if expression="compra &gt;=500">
+                        <then>
+                            <output expression="&quot;desconto de 15%&quot;" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="&quot;Desconto de 10%&quot;" newline="True"/>
+                            <output expression="&quot;Valor do desconto:&quot;" newline="True"/>
+                            <output expression="compra *0.10" newline="True"/>
+                            <output expression="&quot;Valor Final:&quot;" newline="True"/>
+                            <output expression="compra - compra *0.10" newline="True"/>
+                            <breakpoint expression="" always="True"/>
+                        </else>
+                    </if>
+                    <output expression="&quot;Valor do desconto:&quot;" newline="True"/>
+                    <output expression="compra *0.15" newline="True"/>
+                    <output expression="&quot;Valor Final:&quot;" newline="True"/>
+                    <output expression="compra - compra *0.15" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

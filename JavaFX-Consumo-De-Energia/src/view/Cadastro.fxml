@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.CadastroController" styleClass="main-background">
+    
+    <left>
+        <VBox styleClass="sidebar" spacing="10">
+            <padding>
+                <Insets top="20" right="20" bottom="20" left="20"/>
+            </padding>
+            
+            <Label text="⚡ EcoEnergy" styleClass="sidebar-title"/>
+            <Label styleClass="sidebar-separator"/>
+            
+            <Button text="🏠 Dashboard" styleClass="sidebar-menu-item" onAction="#irParaDashboard"/>
+            <Button text="⚡ Equipamentos" styleClass="sidebar-menu-item" onAction="#irParaEquipamentos"/>
+            <Button text="➕ Cadastro" styleClass="sidebar-menu-item" onAction="#irParaCadastro"/>
+            <Button text="📊 Relatórios" styleClass="sidebar-menu-item" onAction="#irParaRelatorios"/>
+            <Button text="🌱 Simulação" styleClass="sidebar-menu-item" onAction="#irParaSimulacao"/>
+            
+            <Label styleClass="sidebar-separator"/>
+            <Button text="❌ Sair" styleClass="sidebar-menu-item" onAction="#sair"/>
+        </VBox>
+    </left>
+    
+    <center>
+        <VBox styleClass="main-content" spacing="30" alignment="CENTER">
+            
+            <Label text="Cadastro de Equipamentos" styleClass="label-title"/>
+            
+            <VBox styleClass="card" spacing="20" style="-fx-pref-width: 500px; -fx-padding: 40px;">
+                
+                <VBox spacing="8">
+                    <Label text="Nome do Equipamento" styleClass="label-field"/>
+                    <TextField fx:id="txtNome" promptText="Ex: Ar Condicionado Sala 01" styleClass="text-field"/>
+                </VBox>
+                
+                <VBox spacing="8">
+                    <Label text="Tipo" styleClass="label-field"/>
+                    <ComboBox fx:id="comboTipo" promptText="Selecione o tipo" styleClass="combo-box" prefWidth="460"/>
+                </VBox>
+                
+                <VBox spacing="8">
+                    <Label text="Potência (Watts)" styleClass="label-field"/>
+                    <TextField fx:id="txtPotencia" promptText="Ex: 1200" styleClass="text-field"/>
+                </VBox>
+                
+                <VBox spacing="8">
+                    <Label text="Quantidade" styleClass="label-field"/>
+                    <TextField fx:id="txtQuantidade" promptText="Ex: 2" styleClass="text-field"/>
+                </VBox>
+                
+                <VBox spacing="8">
+                    <Label text="Horas de uso por dia" styleClass="label-field"/>
+                    <TextField fx:id="txtHoras" promptText="Ex: 8" styleClass="text-field"/>
+                </VBox>
+                
+                <VBox spacing="8">
+                    <Label text="Dias utilizados por mês" styleClass="label-field"/>
+                    <TextField fx:id="txtDias" promptText="Ex: 22" styleClass="text-field"/>
+                </VBox>
+                
+                <HBox spacing="15" alignment="CENTER" style="-fx-padding-top: 10px;">
+                    <Button text="Adicionar" styleClass="button-primary" onAction="#adicionarEquipamento" prefWidth="150"/>
+                    <Button text="Limpar" styleClass="button-secondary" onAction="#limparCampos" prefWidth="150"/>
+                </HBox>
+                
+            </VBox>
+            
+        </VBox>
+    </center>
+    
+</BorderPane>

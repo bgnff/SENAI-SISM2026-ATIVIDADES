@@ -1,0 +1,15 @@
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase4 - Entrada Dados\Fase4 - Entrada Dados\obj\Debug\net10.0\Fase4 - Entrada Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase4 - Entrada Dados\Fase4 - Entrada Dados\obj\Debug\net10.0\Fase4 - Entrada Dados.AssemblyInfoInputs.cache
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase4 - Entrada Dados\Fase4 - Entrada Dados\obj\Debug\net10.0\Fase4 - Entrada Dados.AssemblyInfo.cs
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase4 - Entrada Dados\Fase4 - Entrada Dados\obj\Debug\net10.0\Fase4 - Entrada Dados.csproj.CoreCompileInputs.cache
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase4 - Entrada Dados\Fase4 - Entrada Dados\obj\Debug\net10.0\Fase4 - Entrada Dados.sourcelink.json
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase4 - Entrada Dados\Fase4 - Entrada Dados\bin\Debug\net10.0\Fase4 - Entrada Dados.exe
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase4 - Entrada Dados\Fase4 - Entrada Dados\bin\Debug\net10.0\Fase4 - Entrada Dados.deps.json
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase4 - Entrada Dados\Fase4 - Entrada Dados\bin\Debug\net10.0\Fase4 - Entrada Dados.runtimeconfig.json
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase4 - Entrada Dados\Fase4 - Entrada Dados\bin\Debug\net10.0\Fase4 - Entrada Dados.dll
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase4 - Entrada Dados\Fase4 - Entrada Dados\bin\Debug\net10.0\Fase4 - Entrada Dados.pdb
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase4 - Entrada Dados\Fase4 - Entrada Dados\obj\Debug\net10.0\Fase4 - Entrada Dados.dll
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase4 - Entrada Dados\Fase4 - Entrada Dados\obj\Debug\net10.0\refint\Fase4 - Entrada Dados.dll
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase4 - Entrada Dados\Fase4 - Entrada Dados\obj\Debug\net10.0\Fase4 - Entrada Dados.pdb
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase4 - Entrada Dados\Fase4 - Entrada Dados\obj\Debug\net10.0\Fase4 - Entrada Dados.genruntimeconfig.cache
+C:\Users\zBray\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-DesbravandoDaProgramaçãoComC#\Fase4 - Entrada Dados\Fase4 - Entrada Dados\obj\Debug\net10.0\ref\Fase4 - Entrada Dados.dll

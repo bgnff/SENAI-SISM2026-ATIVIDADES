@@ -1,0 +1,706 @@
+CustomerID AS 'ID',
+       CustomerName AS 'Nome do Cliente',
+       ContactName AS 'Nome de Contado',
+       Addres AS 'Endereco', City AS 'Cidade',
+       PostalCode AS 'Codigo Postal',
+       Country AS 'Pais'
+
+1. Selecionar todos os registros em ordem crescente pelo campo
+`CustomerName`.
+
+SELECT CustomerName AS 'Nome do Cliente' 
+FROM Customers 
+WHERE CustomerName LIKE 'A%'
+ORDER BY CustomerName ASC
+
+2. Selecionar todos os registros ordenados por `City` e depois por
+`CustomerName`.
+
+SELECT CustomerID AS 'ID',
+CustomerName AS 'Nome do Cliente',
+ContactName AS 'Nome de Contado',
+Address AS 'Endereco', 
+City AS 'Cidade',
+PostalCode AS 'Codigo Postal',
+Country AS 'Pais'
+FROM Customers 
+WHERE PostalCode LIKE '%-%'
+ORDER BY City,CustomerName ASC;
+
+3. Selecionar todos os clientes no país &quot;France&quot; e ordenar por
+`PostalCode`.
+
+SELECT CustomerID AS 'ID',
+CustomerName AS 'Nome do Cliente',
+ContactName AS 'Nome de Contado',
+Address AS 'Endereco', 
+City AS 'Cidade',
+PostalCode AS 'Codigo Postal',
+Country AS 'Pais'
+FROM Customers 
+WHERE Country LIKE 'France' 
+ORDER BY PostalCode ASC;
+
+4. Listar todos os clientes ordenados por `Country` e `City`.
+
+SELECT CustomerID AS 'ID',
+CustomerName AS 'Nome do Cliente',
+ContactName AS 'Nome de Contado',
+Address AS 'Endereco', 
+City AS 'Cidade',
+PostalCode AS 'Codigo Postal',
+Country AS 'Pais'
+FROM Customers 
+WHERE CustomerName LIKE '%z' 
+ORDER BY Country, City ASC;
+
+5. Selecionar todos os clientes onde `City` é &quot;Berlin&quot; e ordenar por
+`CustomerName`.
+
+SELECT CustomerID AS 'ID',
+CustomerName AS 'Nome do Cliente',
+ContactName AS 'Nome de Contado',
+Address AS 'Endereco', 
+City AS 'Cidade',
+PostalCode AS 'Codigo Postal',
+Country AS 'Pais'
+FROM Customers 
+WHERE City LIKE 'Berlin' 
+ORDER BY CustomerName ASC;
+
+6. Listar clientes no país &quot;USA&quot; e ordenar por `City` em ordem
+decrescente.
+
+SELECT CustomerID AS 'ID',
+CustomerName AS 'Nome do Cliente',
+ContactName AS 'Nome de Contado',
+Address AS 'Endereco', 
+City AS 'Cidade',
+PostalCode AS 'Codigo Postal',
+Country AS 'Pais'
+FROM Customers 
+WHERE Country LIKE 'USA' AND CustomerName LIKE 'w%'
+ORDER BY City DESC;
+
+7. Selecionar todos os clientes onde o `ContactName` começa com
+&quot;A&quot; e ordenar por `CustomerID`.
+
+SELECT CustomerID AS 'ID',
+CustomerName AS 'Nome do Cliente',
+ContactName AS 'Nome de Contado',
+Address AS 'Endereco', 
+City AS 'Cidade',
+PostalCode AS 'Codigo Postal',
+Country AS 'Pais'
+FROM Customers 
+WHERE ContactName LIKE 'A%' AND CustomerID BETWEEN 70 AND 100
+ORDER BY CustomerID ASC;
+
+8. Selecionar todos os registros onde o `Country` não é &quot;Canada&quot; e
+ordenar por `PostalCode`.
+
+SELECT CustomerID AS 'ID',
+CustomerName AS 'Nome do Cliente',
+ContactName AS 'Nome de Contado',
+Address AS 'Endereco', 
+City AS 'Cidade',
+PostalCode AS 'Codigo Postal',
+Country AS 'Pais'
+FROM Customers 
+WHERE Country NOT LIKE 'Canada' AND CustomerName LIKE 'n%'
+ORDER BY PostalCode ASC;
+
+9. Selecionar todos os clientes onde o `CustomerName` contém
+&quot;Shop&quot; e ordenar por `Country`.
+
+SELECT CustomerID AS 'ID',
+CustomerName AS 'Nome do Cliente',
+ContactName AS 'Nome de Contado',
+Address AS 'Endereco', 
+City AS 'Cidade',
+PostalCode AS 'Codigo Postal',
+Country AS 'Pais'
+FROM Customers 
+WHERE CustomerName LIKE 'Shop' OR CustomerID LIKE '4%' AND Country NOT LIKE 'USA'
+ORDER BY Country DESC;
+
+10. Selecionar todos os clientes no país &quot;Mexico&quot; e ordenar por
+`CustomerID` em ordem decrescente.
+
+SELECT CustomerID AS 'ID',
+CustomerName AS 'Nome do Cliente',
+ContactName AS 'Nome de Contado',
+Address AS 'Endereco', 
+City AS 'Cidade',
+PostalCode AS 'Codigo Postal',
+Country AS 'Pais'
+FROM Customers 
+WHERE Country LIKE 'Mexico' 
+AND CustomerID BETWEEN 0 AND 100 
+AND CustomerID LIKE '%0'
+ORDER BY CustomerID DESC;
+
+11. Listar todos os clientes com `PostalCode` começando com &quot;1&quot; e
+ordenar por `CustomerName`.
+
+SELECT CustomerID AS 'ID',
+CustomerName AS 'Nome do Cliente',
+ContactName AS 'Nome de Contado',
+Address AS 'Endereco', 
+City AS 'Cidade',
+PostalCode AS 'Codigo Postal',
+Country AS 'Pais'
+FROM Customers 
+WHERE PostalCode LIKE '1%' AND Country LIKE 'Argentina' 
+ORDER BY CustomerName;
+
+12. Selecionar clientes que moram em &quot;Madrid&quot; e ordenar por
+`ContactName` em ordem crescente.
+
+SELECT CustomerID AS 'ID',
+CustomerName AS 'Nome do Cliente',
+ContactName AS 'Nome de Contado',
+Address AS 'Endereco', 
+City AS 'Cidade',
+PostalCode AS 'Codigo Postal',
+Country AS 'Pais'
+FROM Customers 
+WHERE City IN ('Madrid') AND PostalCode LIKE '%4'
+ORDER BY ContactName ASC;
+
+13. Selecionar clientes com `City` começando com &quot;P&quot; e ordenar por
+`Country` e `CustomerID`.
+
+SELECT CustomerID AS 'ID',
+CustomerName AS 'Nome do Cliente',
+ContactName AS 'Nome de Contado',
+Address AS 'Endereco', 
+City AS 'Cidade',
+PostalCode AS 'Codigo Postal',
+Country AS 'Pais'
+FROM Customers 
+WHERE City LIKE 'P%' AND ContactName NOT LIKE 'A%'
+ORDER BY Country,CustomerID ASC;
+
+14. Selecionar todos os clientes em &quot;New York&quot; e ordenar por
+`CustomerName`.
+
+SELECT CustomerID AS 'ID',
+CustomerName AS 'Nome do Cliente',
+ContactName AS 'Nome de Contado',
+Address AS 'Endereco', 
+City AS 'Cidade',
+PostalCode AS 'Codigo Postal',
+Country AS 'Pais'
+FROM Customers 
+WHERE City IN ('New York') AND CustomerID LIKE '%1'
+ORDER BY CustomerName;
+
+15. Listar todos os clientes onde `Country` termina com &quot;a&quot; e ordenar
+por `City` em ordem crescente.
+
+SELECT CustomerID AS 'ID',
+CustomerName AS 'Nome do Cliente',
+ContactName AS 'Nome de Contado',
+Address AS 'Endereco', 
+City AS 'Cidade',
+PostalCode AS 'Codigo Postal',
+Country AS 'Pais'
+FROM Customers 
+WHERE Country LIKE '%a' AND CustomerID LIKE '%2'
+ORDER BY City ASC;
+
+16. Selecionar clientes com `PostalCode` começando com &quot;5&quot; e
+ordenar por `ContactName` em ordem decrescente.
+
+SELECT CustomerID AS 'ID',
+CustomerName AS 'Nome do Cliente',
+ContactName AS 'Nome de Contado',
+Address AS 'Endereco', 
+City AS 'Cidade',
+PostalCode AS 'Codigo Postal',
+Country AS 'Pais'
+FROM Customers 
+WHERE PostalCode LIKE '5%' AND Country IN ('France')
+ORDER BY ContactName;
+
+17. Listar todos os clientes ordenados por `PostalCode` em ordem
+decrescente.
+
+SELECT CustomerID AS 'ID',
+CustomerName AS 'Nome do Cliente',
+ContactName AS 'Nome de Contado',
+Address AS 'Endereco', 
+City AS 'Cidade',
+PostalCode AS 'Codigo Postal',
+Country AS 'Pais'
+FROM Customers 
+WHERE CustomerID NOT LIKE '%1' AND Country IN ('Brazil')
+ORDER BY PostalCode DESC;
+
+18. Selecionar clientes cujo `CustomerName` termina com &quot;Ltd&quot; e
+ordenar por `Country` e `City`.
+
+SELECT CustomerID AS 'ID',
+CustomerName AS 'Nome do Cliente',
+ContactName AS 'Nome de Contado',
+Address AS 'Endereco', 
+City AS 'Cidade',
+PostalCode AS 'Codigo Postal',
+Country AS 'Pais'
+FROM Customers 
+WHERE CustomerName LIKE '%Ltd'
+ORDER BY Country, City;
+
+
+19. Selecionar clientes no `Country` &quot;Germany&quot; e ordenar por
+`CustomerName`.
+
+SELECT CustomerID AS 'ID',
+CustomerName AS 'Nome do Cliente',
+ContactName AS 'Nome de Contado',
+Address AS 'Endereco', 
+City AS 'Cidade',
+PostalCode AS 'Codigo Postal',
+Country AS 'Pais'
+FROM Customers 
+WHERE Country IN ('Germany') AND CustomerName LIKE 'F%'
+ORDER BY CustomerName ASC;
+
+
+20. Selecionar todos os clientes cujo `ContactName` contém &quot;son&quot; e
+ordenar por `PostalCode`.
+
+SELECT CustomerID AS 'ID',
+CustomerName AS 'Nome do Cliente',
+ContactName AS 'Nome de Contado',
+Address AS 'Endereco', 
+City AS 'Cidade',
+PostalCode AS 'Codigo Postal',
+Country AS 'Pais'
+FROM Customers 
+WHERE ContactName LIKE '%son%'
+ORDER BY PostalCode ASC;
+
+
+21. Selecionar clientes em &quot;Tokyo&quot; e ordenar por `CustomerName`
+em ordem decrescente.
+
+SELECT CustomerID AS 'ID',
+CustomerName AS 'Nome do Cliente',
+ContactName AS 'Nome de Contado',
+Address AS 'Endereco', 
+City AS 'Cidade',
+PostalCode AS 'Codigo Postal',
+Country AS 'Pais'
+FROM Customers 
+WHERE City IN ('Tokyo') AND PostalCode LIKE '1%'
+ORDER BY CustomerName DESC;
+
+22. Selecionar todos os clientes onde `PostalCode` termina com &quot;00&quot;
+e ordenar por `CustomerID`.
+
+SELECT CustomerID AS 'ID',
+CustomerName AS 'Nome do Cliente',
+ContactName AS 'Nome de Contado',
+Address AS 'Endereco', 
+City AS 'Cidade',
+PostalCode AS 'Codigo Postal',
+Country AS 'Pais'
+FROM Customers 
+WHERE PostalCode LIKE '%00'
+ORDER BY CustomerID;
+
+23. Listar todos os clientes em &quot;Paris&quot; e ordenar por `Country` em
+ordem crescente.
+
+SELECT CustomerID AS 'ID',
+CustomerName AS 'Nome do Cliente',
+ContactName AS 'Nome de Contado',
+Address AS 'Endereco', 
+City AS 'Cidade',
+PostalCode AS 'Codigo Postal',
+Country AS 'Pais'
+FROM Customers 
+WHERE City IN ('Paris') AND CustomerName LIKE '%s'
+ORDER BY Country ASC;
+
+24. Selecionar todos os registros onde `City` começa com &quot;S&quot; e
+ordenar por `CustomerName`.
+
+SELECT CustomerID AS 'ID',
+CustomerName AS 'Nome do Cliente',
+ContactName AS 'Nome de Contado',
+Address AS 'Endereco', 
+City AS 'Cidade',
+PostalCode AS 'Codigo Postal',
+Country AS 'Pais'
+FROM Customers 
+WHERE City LIKE 'S%' AND PostalCode LIKE '%2'
+ORDER BY CustomerName;
+
+25. Selecionar clientes onde o `ContactName` começa com &quot;J&quot; e
+ordenar por `Country` e `PostalCode`.
+
+SELECT CustomerID AS 'ID',
+CustomerName AS 'Nome do Cliente',
+ContactName AS 'Nome de Contado',
+Address AS 'Endereco', 
+City AS 'Cidade',
+PostalCode AS 'Codigo Postal',
+Country AS 'Pais'
+FROM Customers 
+WHERE ContactName LIKE 'J%' AND PostalCode LIKE '%00'
+ORDER BY Country, PostalCode;
+
+26. Listar clientes com `City` diferente de &quot;London&quot; e ordenar por `CustomerID`.
+
+SELECT CustomerID AS 'ID',
+       CustomerName AS 'Nome do Cliente',
+       ContactName AS 'Nome de Contado',
+       Address AS 'Endereco', City AS 'Cidade',
+       PostalCode AS 'Codigo Postal',
+       Country AS 'Pais'
+FROM Customers
+WHERE City NOT LIKE 'London'
+ORDER BY CustomerID
+
+
+27. Selecionar todos os clientes ordenados por `ContactName` em ordem crescente.
+
+SELECT CustomerID AS 'ID',
+       CustomerName AS 'Nome do Cliente',
+       ContactName AS 'Nome de Contado',
+       Address AS 'Endereco', City AS 'Cidade',
+       PostalCode AS 'Codigo Postal',
+       Country AS 'Pais'
+FROM Customers
+WHERE CustomerName LIKE 'F%'
+ORDER BY ContactName ASC
+
+
+28. Selecionar todos os clientes em &quot;Canada&quot; e ordenar por `PostalCode` e `CustomerName`.
+
+SELECT CustomerID AS 'ID',
+       CustomerName AS 'Nome do Cliente',
+       ContactName AS 'Nome de Contado',
+       Address AS 'Endereco', City AS 'Cidade',
+       PostalCode AS 'Codigo Postal',
+       Country AS 'Pais'
+FROM Customers
+WHERE Country LIKE 'Canada'
+ORDER BY CustomerName ASC
+
+
+
+29. Selecionar todos os clientes cujo `CustomerName` contém &quot;Global&quot; e ordenar por `Country`.
+
+SELECT CustomerID AS 'ID',
+       CustomerName AS 'Nome do Cliente',
+       ContactName AS 'Nome de Contado',
+       Address AS 'Endereco', City AS 'Cidade',
+       PostalCode AS 'Codigo Postal',
+       Country AS 'Pais'
+FROM Customers
+WHERE CustomerName LIKE '%Global%'
+ORDER BY Country ASC
+
+
+
+30. Selecionar todos os clientes onde o `Country` começa com &quot;I&quot; e ordenar por `City`.
+
+SELECT CustomerID AS 'ID',
+       CustomerName AS 'Nome do Cliente',
+       ContactName AS 'Nome de Contado',
+       Address AS 'Endereco', City AS 'Cidade',
+       PostalCode AS 'Codigo Postal',
+       Country AS 'Pais'
+FROM Customers
+WHERE Country LIKE 'I%'
+ORDER BY City ASC
+
+
+
+31. Selecionar clientes onde `CustomerName` começa com &quot;T&quot; e ordenar por `ContactName` em ordem decrescente.
+
+SELECT CustomerID AS 'ID',
+       CustomerName AS 'Nome do Cliente',
+       ContactName AS 'Nome de Contado',
+       Address AS 'Endereco', City AS 'Cidade',
+       PostalCode AS 'Codigo Postal',
+       Country AS 'Pais'
+FROM Customers
+WHERE CustomerName LIKE 'T%'
+ORDER BY ContactName DESC
+
+
+
+32. Selecionar clientes onde o `City` é &quot;Chicago&quot; e ordenar por `PostalCode`.
+
+SELECT CustomerID AS 'ID',
+       CustomerName AS 'Nome do Cliente',
+       ContactName AS 'Nome de Contado',
+       Address AS 'Endereco', City AS 'Cidade',
+       PostalCode AS 'Codigo Postal',
+       Country AS 'Pais'
+FROM Customers
+WHERE City LIKE 'Chicago'
+ORDER BY PostalCode ASC
+
+
+
+33. Selecionar clientes no `Country` &quot;Italy&quot; e ordenar por `CustomerName` e `ContactName`.
+
+SELECT CustomerID AS 'ID',
+       CustomerName AS 'Nome do Cliente',
+       ContactName AS 'Nome de Contado',
+       Address AS 'Endereco', City AS 'Cidade',
+       PostalCode AS 'Codigo Postal',
+       Country AS 'Pais'
+FROM Customers
+WHERE Country LIKE 'Italy'
+ORDER BY CustomerName ASC,
+ContactName ASC
+
+
+
+34. Selecionar clientes cujo `CustomerName` começa com &quot;B&quot; e ordenar por `CustomerID` em ordem crescente.
+
+SELECT CustomerID AS 'ID',
+       CustomerName AS 'Nome do Cliente',
+       ContactName AS 'Nome de Contado',
+       Address AS 'Endereco', City AS 'Cidade',
+       PostalCode AS 'Codigo Postal',
+       Country AS 'Pais'
+FROM Customers
+WHERE CustomerName LIKE 'B%'
+ORDER BY CustomerID ASC
+
+
+
+35. Listar todos os clientes cujo `City` termina com &quot;o&quot; e ordenar por `Country`.
+
+SELECT CustomerID AS 'ID',
+       CustomerName AS 'Nome do Cliente',
+       ContactName AS 'Nome de Contado',
+       Address AS 'Endereco', City AS 'Cidade',
+       PostalCode AS 'Codigo Postal',
+       Country AS 'Pais'
+FROM Customers
+WHERE City LIKE '%o'
+ORDER BY Country ASC
+
+
+
+36. Selecionar todos os clientes em &quot;Brazil&quot; e ordenar por `PostalCode` e `CustomerName`.
+
+SELECT CustomerID AS 'ID',
+       CustomerName AS 'Nome do Cliente',
+       ContactName AS 'Nome de Contado',
+       Address AS 'Endereco', City AS 'Cidade',
+       PostalCode AS 'Codigo Postal',
+       Country AS 'Pais'
+FROM Customers
+WHERE Country LIKE 'Brazil'
+ORDER BY PostalCode ASC,
+CustomerName ASC
+
+
+
+37. Selecionar clientes onde `PostalCode` começa com &quot;9&quot; e ordenar por `CustomerName` em ordem decrescente.
+
+SELECT CustomerID AS 'ID',
+       CustomerName AS 'Nome do Cliente',
+       ContactName AS 'Nome de Contado',
+       Address AS 'Endereco', City AS 'Cidade',
+       PostalCode AS 'Codigo Postal',
+       Country AS 'Pais'
+FROM Customers
+WHERE PostalCode LIKE '9%'
+ORDER BY CustomerName DESC
+
+
+
+38. Selecionar todos os clientes onde o `CustomerName` contém &quot;Services&quot; e ordenar por `ContactName`.
+
+SELECT CustomerID AS 'ID',
+       CustomerName AS 'Nome do Cliente',
+       ContactName AS 'Nome de Contado',
+       Address AS 'Endereco', City AS 'Cidade',
+       PostalCode AS 'Codigo Postal',
+       Country AS 'Pais'
+FROM Customers
+WHERE CustomerName LIKE '%Services%'
+ORDER BY ContactName ASC
+
+
+
+39. Selecionar clientes onde o `Country` é &quot;Spain&quot; e ordenar por `City`.
+
+SELECT CustomerID AS 'ID',
+       CustomerName AS 'Nome do Cliente',
+       ContactName AS 'Nome de Contado',
+       Address AS 'Endereco', City AS 'Cidade',
+       PostalCode AS 'Codigo Postal',
+       Country AS 'Pais'
+FROM Customers
+WHERE Country LIKE 'Spain'
+ORDER BY City ASC
+
+
+
+40. Selecionar todos os clientes onde `City` começa com &quot;A&quot; e ordenar por `CustomerName` e `Country`.
+
+SELECT CustomerID AS 'ID',
+       CustomerName AS 'Nome do Cliente',
+       ContactName AS 'Nome de Contado',
+       Address AS 'Endereco', City AS 'Cidade',
+       PostalCode AS 'Codigo Postal',
+       Country AS 'Pais'
+FROM Customers
+WHERE City LIKE 'A%'
+ORDER BY CustomerName ASC,
+Country ASC
+
+
+
+41. Selecionar clientes cujo `ContactName` termina com &quot;e&quot; e ordenar por `PostalCode`.
+
+SELECT CustomerID AS 'ID',
+       CustomerName AS 'Nome do Cliente',
+       ContactName AS 'Nome de Contado',
+       Address AS 'Endereco', City AS 'Cidade',
+       PostalCode AS 'Codigo Postal',
+       Country AS 'Pais'
+FROM Customers
+WHERE ContactName LIKE '%o'
+ORDER BY PostalCode ASC
+
+
+
+42. Selecionar todos os clientes onde `CustomerName` contém &quot;Group&quot; e ordenar por `Country` em ordem crescente.
+
+SELECT CustomerID AS 'ID',
+       CustomerName AS 'Nome do Cliente',
+       ContactName AS 'Nome de Contado',
+       Address AS 'Endereco', City AS 'Cidade',
+       PostalCode AS 'Codigo Postal',
+       Country AS 'Pais'
+FROM Customers
+WHERE CustomerName LIKE '%Group%'
+ORDER BY Country ASC
+
+
+
+43. Selecionar clientes onde `Country` termina com &quot;n&quot; e ordenar por `CustomerName` em ordem decrescente.
+
+SELECT CustomerID AS 'ID',
+       CustomerName AS 'Nome do Cliente',
+       ContactName AS 'Nome de Contado',
+       Address AS 'Endereco', City AS 'Cidade',
+       PostalCode AS 'Codigo Postal',
+       Country AS 'Pais'
+FROM Customers
+WHERE Country LIKE '%n'
+ORDER BY CustomerName DESC
+
+
+
+44. Selecionar clientes cujo `City` começa com &quot;L&quot; e ordenar por `CustomerID`.
+
+SELECT CustomerID AS 'ID',
+       CustomerName AS 'Nome do Cliente',
+       ContactName AS 'Nome de Contado',
+       Address AS 'Endereco', City AS 'Cidade',
+       PostalCode AS 'Codigo Postal',
+       Country AS 'Pais'
+FROM Customers
+WHERE City LIKE 'L%'
+ORDER BY CustomerID ASC
+
+
+
+45. Selecionar clientes no país &quot;Japan&quot; e ordenar por `PostalCode` em ordem decrescente.
+
+SELECT CustomerID AS 'ID',
+       CustomerName AS 'Nome do Cliente',
+       ContactName AS 'Nome de Contado',
+       Address AS 'Endereco', City AS 'Cidade',
+       PostalCode AS 'Codigo Postal',
+       Country AS 'Pais'
+FROM Customers
+WHERE Country LIKE 'Japan'
+ORDER BY PostalCode DESC
+
+
+
+46. Selecionar clientes cujo `PostalCode` termina em &quot;5&quot; e ordenar por `CustomerName` e `City`.
+
+SELECT CustomerID AS 'ID',
+       CustomerName AS 'Nome do Cliente',
+       ContactName AS 'Nome de Contado',
+       Address AS 'Endereco', City AS 'Cidade',
+       PostalCode AS 'Codigo Postal',
+       Country AS 'Pais'
+FROM Customers
+WHERE PostalCode LIKE '%5'
+ORDER BY CustomerName ASC,
+City ASC
+
+
+
+47. Selecionar todos os clientes em &quot;Germany&quot; e ordenar por `City`.
+
+SELECT CustomerID AS 'ID',
+       CustomerName AS 'Nome do Cliente',
+       ContactName AS 'Nome de Contado',
+       Address AS 'Endereco', City AS 'Cidade',
+       PostalCode AS 'Codigo Postal',
+       Country AS 'Pais'
+FROM Customers
+WHERE Country LIKE 'Germany'
+ORDER BY City ASC
+
+
+
+48. Selecionar clientes onde o `CustomerName` começa com &quot;C&quot; e ordenar por `Country` e `ContactName`.
+
+SELECT CustomerID AS 'ID',
+       CustomerName AS 'Nome do Cliente',
+       ContactName AS 'Nome de Contado',
+       Address AS 'Endereco', City AS 'Cidade',
+       PostalCode AS 'Codigo Postal',
+       Country AS 'Pais'
+FROM Customers
+WHERE CustomerName LIKE 'C%'
+ORDER BY Country ASC,
+         ContactName
+
+
+
+49. Selecionar todos os clientes cujo `ContactName` contém &quot;king&quot; e ordenar por `CustomerID`.
+
+SELECT CustomerID AS 'ID',
+       CustomerName AS 'Nome do Cliente',
+       ContactName AS 'Nome de Contado',
+       Address AS 'Endereco', City AS 'Cidade',
+       PostalCode AS 'Codigo Postal',
+       Country AS 'Pais'
+FROM Customers
+WHERE ContactName LIKE '%King%'
+ORDER BY CustomerID ASC
+
+
+
+50. Selecionar clientes onde `PostalCode` começa com &quot;3&quot; e ordenar por `CustomerName` e `Country`.
+
+SELECT CustomerID AS 'ID',
+       CustomerName AS 'Nome do Cliente',
+       ContactName AS 'Nome de Contado',
+       Address AS 'Endereco', City AS 'Cidade',
+       PostalCode AS 'Codigo Postal',
+       Country AS 'Pais'
+FROM Customers
+WHERE PostalCode LIKE '3%'
+ORDER BY CustomerName ASC,
+         Country ASC

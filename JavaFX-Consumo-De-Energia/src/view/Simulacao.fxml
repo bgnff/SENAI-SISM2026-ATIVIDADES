@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<BorderPane xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.SimulacaoController" styleClass="main-background">
+    
+    <left>
+        <VBox styleClass="sidebar" spacing="10">
+            <padding>
+                <Insets top="20" right="20" bottom="20" left="20"/>
+            </padding>
+            
+            <Label text="⚡ EcoEnergy" styleClass="sidebar-title"/>
+            <Label styleClass="sidebar-separator"/>
+            
+            <Button text="🏠 Dashboard" styleClass="sidebar-menu-item" onAction="#irParaDashboard"/>
+            <Button text="⚡ Equipamentos" styleClass="sidebar-menu-item" onAction="#irParaEquipamentos"/>
+            <Button text="➕ Cadastro" styleClass="sidebar-menu-item" onAction="#irParaCadastro"/>
+            <Button text="📊 Relatórios" styleClass="sidebar-menu-item" onAction="#irParaRelatorios"/>
+            <Button text="🌱 Simulação" styleClass="sidebar-menu-item" onAction="#irParaSimulacao"/>
+            
+            <Label styleClass="sidebar-separator"/>
+            <Button text="❌ Sair" styleClass="sidebar-menu-item" onAction="#sair"/>
+        </VBox>
+    </left>
+    
+    <center>
+        <VBox styleClass="main-content" spacing="30">
+            
+            <Label text="Simulação de Economia" styleClass="label-title"/>
+            
+            <VBox styleClass="card" spacing="20" style="-fx-pref-width: 500px; -fx-padding: 40px;">
+                
+                <Label text="Parâmetros da Simulação" styleClass="suggestions-title"/>
+                
+                <VBox spacing="8">
+                    <Label text="Valor do kWh (R$)" styleClass="label-field"/>
+                    <TextField fx:id="txtValorKwh" promptText="Ex: 0.90" styleClass="text-field" text="0.90"/>
+                </VBox>
+                
+                <VBox spacing="8">
+                    <Label text="Percentual de Economia (%)" styleClass="label-field"/>
+                    <TextField fx:id="txtPercentual" promptText="Ex: 20" styleClass="text-field" text="20"/>
+                </VBox>
+                
+                <Button text="🌱 Simular" styleClass="button-primary" onAction="#simular" prefWidth="200"/>
+                
+            </VBox>
+            
+            <VBox styleClass="card" spacing="20" style="-fx-padding: 40px;">
+                
+                <Label text="Resultados da Simulação" styleClass="suggestions-title"/>
+                
+                <HBox spacing="30">
+                    
+                    <VBox spacing="8">
+                        <Label text="Novo Consumo" styleClass="card-title"/>
+                        <Label fx:id="lblNovoConsumo" text="0 kWh" styleClass="card-value"/>
+                    </VBox>
+                    
+                    <VBox spacing="8">
+                        <Label text="Economia em kWh" styleClass="card-title"/>
+                        <Label fx:id="lblEconomiaKwh" text="0 kWh" styleClass="card-value" style="-fx-text-fill: #10B981;"/>
+                    </VBox>
+                    
+                    <VBox spacing="8">
+                        <Label text="Economia em Reais" styleClass="card-title"/>
+                        <Label fx:id="lblEconomiaReais" text="R$ 0,00" styleClass="card-value" style="-fx-text-fill: #10B981;"/>
+                    </VBox>
+                    
+                </HBox>
+                
+            </VBox>
+            
+            <Label text="💡 A simulação calcula a economia aplicando o percentual de redução sobre o consumo total atual." 
+                   styleClass="label-field" style="-fx-font-style: italic; -fx-font-size: 13px;"/>
+            
+        </VBox>
+    </center>
+    
+</BorderPane>

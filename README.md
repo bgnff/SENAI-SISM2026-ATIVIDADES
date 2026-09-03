@@ -4,6 +4,10 @@ Repositório destinado a organização, acompanhamento e upload de atividades si
 
 -- Atividadesde treinamento de lógica usando FlowGorithm
 --
+-- Atividades de lógica em portugol usando VisualG
+--
+-- Atividades de Noções de Eletro Eletrônica
+--
 -- Atividades diversificadas nas Lingauens: Java e C# (Csharp)
 --
 -- Atividades de SQL (Consultas, criações de DB's completos.)

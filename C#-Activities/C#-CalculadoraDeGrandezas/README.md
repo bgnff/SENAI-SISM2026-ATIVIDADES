@@ -68,7 +68,7 @@ Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalh
 
 ## 👨‍💻 Autor
 
-Desenvolvido por você - SENAI SISM 2026
+Desenvolvido por Brayan Oliveira - SENAI SISM 2026
 
 ---
 

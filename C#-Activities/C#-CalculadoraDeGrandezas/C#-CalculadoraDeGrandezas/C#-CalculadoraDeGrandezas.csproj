@@ -6,6 +6,19 @@
     <RootNamespace>C__CalculadoraDeGrandezas</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <!-- Informações de Versão -->
+    <Version>1.0.0</Version>
+    <AssemblyVersion>1.0.0.0</AssemblyVersion>
+    <FileVersion>1.0.0.0</FileVersion>
+    <InformationalVersion>1.0.0</InformationalVersion>
+
+    <!-- Informações do Projeto -->
+    <Title>Calculadora de Grandezas Elétricas</Title>
+    <Description>Aplicação console para cálculo de grandezas elétricas (Tensão, Corrente, Resistência e Potência) com visualização interativa de cores de resistor</Description>
+    <Authors>SENAI SISM 2026</Authors>
+    <Company>SENAI</Company>
+    <Product>Calculadora de Grandezas</Product>
   </PropertyGroup>
 
 </Project>

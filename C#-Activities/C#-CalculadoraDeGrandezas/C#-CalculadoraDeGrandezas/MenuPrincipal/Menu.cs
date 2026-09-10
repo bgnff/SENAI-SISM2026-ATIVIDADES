@@ -39,6 +39,7 @@ namespace C__CalculadoraDeGrandezas.MenuPrincipal
             Console.WriteLine("====================================");
             Console.WriteLine("     CALCULADORA DE GRANDEZAS");
             Console.WriteLine("====================================");
+            Console.WriteLine($"                {Versao.VERSAO_ATUAL}");
             Console.WriteLine("");
 
             // Mostra a opção para calcular tensão.

@@ -1,8 +1,8 @@
-# 🔌 Calculadora de Grandezas Elétricas
+#  Calculadora de Grandezas Elétricas
 
 Um projeto em C# que calcula grandezas elétricas (tensão, corrente, resistência e potência) e exibe as cores correspondentes dos resistores de forma visual.
 
-## 📊 Funcionalidades
+##  Funcionalidades
 
 - ✅ Calcular Tensão (V = R × I)
 - ✅ Calcular Corrente (I = V / R)
@@ -10,20 +10,20 @@ Um projeto em C# que calcula grandezas elétricas (tensão, corrente, resistênc
 - ✅ Calcular Potência (P = V × I)
 - ✅ Visualizar cores do resistor com cores no terminal
 
-## 🎨 Cores do Resistor
+##  Cores do Resistor
 
 O projeto exibe as cores padrão dos resistores:
 - **Preto** (0), **Marrom** (1), **Vermelho** (2), **Laranja** (3), **Amarelo** (4)
 - **Verde** (5), **Azul** (6), **Violeta** (7), **Cinza** (8), **Branco** (9)
 - **Dourado** (Tolerância ±5%)
 
-## 🛠️ Tecnologias
+##  Tecnologias
 
 - **Linguagem**: C#
 - **.NET**: .NET Framework / .NET Core
 - **IDE**: Visual Studio
 
-## 📥 Como Usar
+##  Como Usar
 
 1. Clone o repositório:
    ```bash
@@ -42,7 +42,7 @@ O projeto exibe as cores padrão dos resistores:
    4 - Calcular Potência
    ```
 
-## 📝 Estrutura do Projeto
+##  Estrutura do Projeto
 
 ```
 C#-CalculadoraDeGrandezas/
@@ -72,4 +72,4 @@ Desenvolvido por Brayan Oliveira - SENAI SISM 2026
 
 ---
 
-**⭐ Se gostou, deixe uma estrela no repositório!**
+**Se gostou, deixe uma estrela no repositório!**

@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EBB2NL314\\Desktop\\OperadoresCsharp\\OperadoresCsharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6C8FE3-92F6-41AE-98BF-5CE64F2C0399}|OperadoresCsharp\\OperadoresCsharp.csproj|c:\\users\\ebb2nl314\\desktop\\operadorescsharp\\operadorescsharp\\operadorescsharp\\atividades\\f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6C8FE3-92F6-41AE-98BF-5CE64F2C0399}|OperadoresCsharp\\OperadoresCsharp.csproj|solutionrelative:operadorescsharp\\atividades\\f.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6C8FE3-92F6-41AE-98BF-5CE64F2C0399}|OperadoresCsharp\\OperadoresCsharp.csproj|c:\\users\\ebb2nl314\\desktop\\operadorescsharp\\operadorescsharp\\operadorescsharp\\atividades\\e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6C8FE3-92F6-41AE-98BF-5CE64F2C0399}|OperadoresCsharp\\OperadoresCsharp.csproj|solutionrelative:operadorescsharp\\atividades\\e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6C8FE3-92F6-41AE-98BF-5CE64F2C0399}|OperadoresCsharp\\OperadoresCsharp.csproj|c:\\users\\ebb2nl314\\desktop\\operadorescsharp\\operadorescsharp\\operadorescsharp\\menu\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6C8FE3-92F6-41AE-98BF-5CE64F2C0399}|OperadoresCsharp\\OperadoresCsharp.csproj|solutionrelative:operadorescsharp\\menu\\menuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6C8FE3-92F6-41AE-98BF-5CE64F2C0399}|OperadoresCsharp\\OperadoresCsharp.csproj|c:\\users\\ebb2nl314\\desktop\\operadorescsharp\\operadorescsharp\\operadorescsharp\\atividades\\b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6C8FE3-92F6-41AE-98BF-5CE64F2C0399}|OperadoresCsharp\\OperadoresCsharp.csproj|solutionrelative:operadorescsharp\\atividades\\b.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6C8FE3-92F6-41AE-98BF-5CE64F2C0399}|OperadoresCsharp\\OperadoresCsharp.csproj|c:\\users\\ebb2nl314\\desktop\\operadorescsharp\\operadorescsharp\\operadorescsharp\\atividades\\c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6C8FE3-92F6-41AE-98BF-5CE64F2C0399}|OperadoresCsharp\\OperadoresCsharp.csproj|solutionrelative:operadorescsharp\\atividades\\c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6C8FE3-92F6-41AE-98BF-5CE64F2C0399}|OperadoresCsharp\\OperadoresCsharp.csproj|c:\\users\\ebb2nl314\\desktop\\operadorescsharp\\operadorescsharp\\operadorescsharp\\atividades\\d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6C8FE3-92F6-41AE-98BF-5CE64F2C0399}|OperadoresCsharp\\OperadoresCsharp.csproj|solutionrelative:operadorescsharp\\atividades\\d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6C8FE3-92F6-41AE-98BF-5CE64F2C0399}|OperadoresCsharp\\OperadoresCsharp.csproj|c:\\users\\ebb2nl314\\desktop\\operadorescsharp\\operadorescsharp\\operadorescsharp\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6C8FE3-92F6-41AE-98BF-5CE64F2C0399}|OperadoresCsharp\\OperadoresCsharp.csproj|solutionrelative:operadorescsharp\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6C8FE3-92F6-41AE-98BF-5CE64F2C0399}|OperadoresCsharp\\OperadoresCsharp.csproj|c:\\users\\ebb2nl314\\desktop\\operadorescsharp\\operadorescsharp\\operadorescsharp\\atividades\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6C8FE3-92F6-41AE-98BF-5CE64F2C0399}|OperadoresCsharp\\OperadoresCsharp.csproj|solutionrelative:operadorescsharp\\atividades\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6C8FE3-92F6-41AE-98BF-5CE64F2C0399}|OperadoresCsharp\\OperadoresCsharp.csproj|c:\\users\\ebb2nl314\\desktop\\operadorescsharp\\operadorescsharp\\operadorescsharp\\menu\\bemvindo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD6C8FE3-92F6-41AE-98BF-5CE64F2C0399}|OperadoresCsharp\\OperadoresCsharp.csproj|solutionrelative:operadorescsharp\\menu\\bemvindo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "F.cs",
+              "DocumentMoniker": "C:\\Users\\EBB2NL314\\Desktop\\OperadoresCsharp\\OperadoresCsharp\\OperadoresCsharp\\Atividades\\F.cs",
+              "RelativeDocumentMoniker": "OperadoresCsharp\\Atividades\\F.cs",
+              "ToolTip": "C:\\Users\\EBB2NL314\\Desktop\\OperadoresCsharp\\OperadoresCsharp\\OperadoresCsharp\\Atividades\\F.cs",
+              "RelativeToolTip": "OperadoresCsharp\\Atividades\\F.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T14:12:14.321Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "E.cs",
+              "DocumentMoniker": "C:\\Users\\EBB2NL314\\Desktop\\OperadoresCsharp\\OperadoresCsharp\\OperadoresCsharp\\Atividades\\E.cs",
+              "RelativeDocumentMoniker": "OperadoresCsharp\\Atividades\\E.cs",
+              "ToolTip": "C:\\Users\\EBB2NL314\\Desktop\\OperadoresCsharp\\OperadoresCsharp\\OperadoresCsharp\\Atividades\\E.cs",
+              "RelativeToolTip": "OperadoresCsharp\\Atividades\\E.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T13:51:44.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "D.cs",
+              "DocumentMoniker": "C:\\Users\\EBB2NL314\\Desktop\\OperadoresCsharp\\OperadoresCsharp\\OperadoresCsharp\\Atividades\\D.cs",
+              "RelativeDocumentMoniker": "OperadoresCsharp\\Atividades\\D.cs",
+              "ToolTip": "C:\\Users\\EBB2NL314\\Desktop\\OperadoresCsharp\\OperadoresCsharp\\OperadoresCsharp\\Atividades\\D.cs",
+              "RelativeToolTip": "OperadoresCsharp\\Atividades\\D.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T13:46:46.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "C.cs",
+              "DocumentMoniker": "C:\\Users\\EBB2NL314\\Desktop\\OperadoresCsharp\\OperadoresCsharp\\OperadoresCsharp\\Atividades\\C.cs",
+              "RelativeDocumentMoniker": "OperadoresCsharp\\Atividades\\C.cs",
+              "ToolTip": "C:\\Users\\EBB2NL314\\Desktop\\OperadoresCsharp\\OperadoresCsharp\\OperadoresCsharp\\Atividades\\C.cs",
+              "RelativeToolTip": "OperadoresCsharp\\Atividades\\C.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T13:31:28.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BemVindo.cs",
+              "DocumentMoniker": "C:\\Users\\EBB2NL314\\Desktop\\OperadoresCsharp\\OperadoresCsharp\\OperadoresCsharp\\Menu\\BemVindo.cs",
+              "RelativeDocumentMoniker": "OperadoresCsharp\\Menu\\BemVindo.cs",
+              "ToolTip": "C:\\Users\\EBB2NL314\\Desktop\\OperadoresCsharp\\OperadoresCsharp\\OperadoresCsharp\\Menu\\BemVindo.cs",
+              "RelativeToolTip": "OperadoresCsharp\\Menu\\BemVindo.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T13:23:53.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "B.cs",
+              "DocumentMoniker": "C:\\Users\\EBB2NL314\\Desktop\\OperadoresCsharp\\OperadoresCsharp\\OperadoresCsharp\\Atividades\\B.cs",
+              "RelativeDocumentMoniker": "OperadoresCsharp\\Atividades\\B.cs",
+              "ToolTip": "C:\\Users\\EBB2NL314\\Desktop\\OperadoresCsharp\\OperadoresCsharp\\OperadoresCsharp\\Atividades\\B.cs",
+              "RelativeToolTip": "OperadoresCsharp\\Atividades\\B.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAwAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T13:19:56.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MenuPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\EBB2NL314\\Desktop\\OperadoresCsharp\\OperadoresCsharp\\OperadoresCsharp\\Menu\\MenuPrincipal.cs",
+              "RelativeDocumentMoniker": "OperadoresCsharp\\Menu\\MenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\EBB2NL314\\Desktop\\OperadoresCsharp\\OperadoresCsharp\\OperadoresCsharp\\Menu\\MenuPrincipal.cs",
+              "RelativeToolTip": "OperadoresCsharp\\Menu\\MenuPrincipal.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwDkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T11:56:11.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EBB2NL314\\Desktop\\OperadoresCsharp\\OperadoresCsharp\\OperadoresCsharp\\Main\\Program.cs",
+              "RelativeDocumentMoniker": "OperadoresCsharp\\Main\\Program.cs",
+              "ToolTip": "C:\\Users\\EBB2NL314\\Desktop\\OperadoresCsharp\\OperadoresCsharp\\OperadoresCsharp\\Main\\Program.cs",
+              "RelativeToolTip": "OperadoresCsharp\\Main\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T11:29:34.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "A.cs",
+              "DocumentMoniker": "C:\\Users\\EBB2NL314\\Desktop\\OperadoresCsharp\\OperadoresCsharp\\OperadoresCsharp\\Atividades\\A.cs",
+              "RelativeDocumentMoniker": "OperadoresCsharp\\Atividades\\A.cs",
+              "ToolTip": "C:\\Users\\EBB2NL314\\Desktop\\OperadoresCsharp\\OperadoresCsharp\\OperadoresCsharp\\Atividades\\A.cs",
+              "RelativeToolTip": "OperadoresCsharp\\Atividades\\A.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-17T11:52:11.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

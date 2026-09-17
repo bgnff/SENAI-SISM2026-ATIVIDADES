@@ -1,0 +1,14 @@
+C:\Users\EBB2NL314\Desktop\OperadoresCsharp\OperadoresCsharp\OperadoresCsharp\bin\Debug\net8.0\OperadoresCsharp.exe
+C:\Users\EBB2NL314\Desktop\OperadoresCsharp\OperadoresCsharp\OperadoresCsharp\bin\Debug\net8.0\OperadoresCsharp.deps.json
+C:\Users\EBB2NL314\Desktop\OperadoresCsharp\OperadoresCsharp\OperadoresCsharp\bin\Debug\net8.0\OperadoresCsharp.runtimeconfig.json
+C:\Users\EBB2NL314\Desktop\OperadoresCsharp\OperadoresCsharp\OperadoresCsharp\bin\Debug\net8.0\OperadoresCsharp.dll
+C:\Users\EBB2NL314\Desktop\OperadoresCsharp\OperadoresCsharp\OperadoresCsharp\bin\Debug\net8.0\OperadoresCsharp.pdb
+C:\Users\EBB2NL314\Desktop\OperadoresCsharp\OperadoresCsharp\OperadoresCsharp\obj\Debug\net8.0\OperadoresCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EBB2NL314\Desktop\OperadoresCsharp\OperadoresCsharp\OperadoresCsharp\obj\Debug\net8.0\OperadoresCsharp.AssemblyInfoInputs.cache
+C:\Users\EBB2NL314\Desktop\OperadoresCsharp\OperadoresCsharp\OperadoresCsharp\obj\Debug\net8.0\OperadoresCsharp.AssemblyInfo.cs
+C:\Users\EBB2NL314\Desktop\OperadoresCsharp\OperadoresCsharp\OperadoresCsharp\obj\Debug\net8.0\OperadoresCsharp.csproj.CoreCompileInputs.cache
+C:\Users\EBB2NL314\Desktop\OperadoresCsharp\OperadoresCsharp\OperadoresCsharp\obj\Debug\net8.0\OperadoresCsharp.dll
+C:\Users\EBB2NL314\Desktop\OperadoresCsharp\OperadoresCsharp\OperadoresCsharp\obj\Debug\net8.0\refint\OperadoresCsharp.dll
+C:\Users\EBB2NL314\Desktop\OperadoresCsharp\OperadoresCsharp\OperadoresCsharp\obj\Debug\net8.0\OperadoresCsharp.pdb
+C:\Users\EBB2NL314\Desktop\OperadoresCsharp\OperadoresCsharp\OperadoresCsharp\obj\Debug\net8.0\OperadoresCsharp.genruntimeconfig.cache
+C:\Users\EBB2NL314\Desktop\OperadoresCsharp\OperadoresCsharp\OperadoresCsharp\obj\Debug\net8.0\ref\OperadoresCsharp.dll

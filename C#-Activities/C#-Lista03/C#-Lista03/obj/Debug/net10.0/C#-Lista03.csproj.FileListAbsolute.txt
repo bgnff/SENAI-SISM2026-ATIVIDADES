@@ -1,0 +1,14 @@
+C:\Users\EBB2NL314\source\repos\C#-Lista03\C#-Lista03\bin\Debug\net10.0\C#-Lista03.exe
+C:\Users\EBB2NL314\source\repos\C#-Lista03\C#-Lista03\bin\Debug\net10.0\C#-Lista03.deps.json
+C:\Users\EBB2NL314\source\repos\C#-Lista03\C#-Lista03\bin\Debug\net10.0\C#-Lista03.runtimeconfig.json
+C:\Users\EBB2NL314\source\repos\C#-Lista03\C#-Lista03\bin\Debug\net10.0\C#-Lista03.dll
+C:\Users\EBB2NL314\source\repos\C#-Lista03\C#-Lista03\bin\Debug\net10.0\C#-Lista03.pdb
+C:\Users\EBB2NL314\source\repos\C#-Lista03\C#-Lista03\obj\Debug\net10.0\C#-Lista03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EBB2NL314\source\repos\C#-Lista03\C#-Lista03\obj\Debug\net10.0\C#-Lista03.AssemblyInfoInputs.cache
+C:\Users\EBB2NL314\source\repos\C#-Lista03\C#-Lista03\obj\Debug\net10.0\C#-Lista03.AssemblyInfo.cs
+C:\Users\EBB2NL314\source\repos\C#-Lista03\C#-Lista03\obj\Debug\net10.0\C#-Lista03.csproj.CoreCompileInputs.cache
+C:\Users\EBB2NL314\source\repos\C#-Lista03\C#-Lista03\obj\Debug\net10.0\C#-Lista03.dll
+C:\Users\EBB2NL314\source\repos\C#-Lista03\C#-Lista03\obj\Debug\net10.0\refint\C#-Lista03.dll
+C:\Users\EBB2NL314\source\repos\C#-Lista03\C#-Lista03\obj\Debug\net10.0\C#-Lista03.pdb
+C:\Users\EBB2NL314\source\repos\C#-Lista03\C#-Lista03\obj\Debug\net10.0\C#-Lista03.genruntimeconfig.cache
+C:\Users\EBB2NL314\source\repos\C#-Lista03\C#-Lista03\obj\Debug\net10.0\ref\C#-Lista03.dll

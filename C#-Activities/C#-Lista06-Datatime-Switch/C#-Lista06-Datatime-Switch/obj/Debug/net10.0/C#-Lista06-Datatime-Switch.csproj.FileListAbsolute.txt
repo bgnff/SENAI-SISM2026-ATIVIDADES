@@ -1,0 +1,15 @@
+C:\Users\EBB2NL309\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista06-Datatime-Switch\C#-Lista06-Datatime-Switch\bin\Debug\net10.0\C#-Lista06-Datatime-Switch.exe
+C:\Users\EBB2NL309\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista06-Datatime-Switch\C#-Lista06-Datatime-Switch\bin\Debug\net10.0\C#-Lista06-Datatime-Switch.deps.json
+C:\Users\EBB2NL309\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista06-Datatime-Switch\C#-Lista06-Datatime-Switch\bin\Debug\net10.0\C#-Lista06-Datatime-Switch.runtimeconfig.json
+C:\Users\EBB2NL309\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista06-Datatime-Switch\C#-Lista06-Datatime-Switch\bin\Debug\net10.0\C#-Lista06-Datatime-Switch.dll
+C:\Users\EBB2NL309\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista06-Datatime-Switch\C#-Lista06-Datatime-Switch\bin\Debug\net10.0\C#-Lista06-Datatime-Switch.pdb
+C:\Users\EBB2NL309\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista06-Datatime-Switch\C#-Lista06-Datatime-Switch\obj\Debug\net10.0\C#-Lista06-Datatime-Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EBB2NL309\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista06-Datatime-Switch\C#-Lista06-Datatime-Switch\obj\Debug\net10.0\C#-Lista06-Datatime-Switch.AssemblyInfoInputs.cache
+C:\Users\EBB2NL309\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista06-Datatime-Switch\C#-Lista06-Datatime-Switch\obj\Debug\net10.0\C#-Lista06-Datatime-Switch.AssemblyInfo.cs
+C:\Users\EBB2NL309\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista06-Datatime-Switch\C#-Lista06-Datatime-Switch\obj\Debug\net10.0\C#-Lista06-Datatime-Switch.csproj.CoreCompileInputs.cache
+C:\Users\EBB2NL309\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista06-Datatime-Switch\C#-Lista06-Datatime-Switch\obj\Debug\net10.0\C#-Lista06-Datatime-Switch.sourcelink.json
+C:\Users\EBB2NL309\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista06-Datatime-Switch\C#-Lista06-Datatime-Switch\obj\Debug\net10.0\C#-Lista06-Datatime-Switch.dll
+C:\Users\EBB2NL309\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista06-Datatime-Switch\C#-Lista06-Datatime-Switch\obj\Debug\net10.0\refint\C#-Lista06-Datatime-Switch.dll
+C:\Users\EBB2NL309\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista06-Datatime-Switch\C#-Lista06-Datatime-Switch\obj\Debug\net10.0\C#-Lista06-Datatime-Switch.pdb
+C:\Users\EBB2NL309\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista06-Datatime-Switch\C#-Lista06-Datatime-Switch\obj\Debug\net10.0\C#-Lista06-Datatime-Switch.genruntimeconfig.cache
+C:\Users\EBB2NL309\Desktop\SENAI-SISM2026-ATIVIDADES\C#-Activities\C#-Lista06-Datatime-Switch\C#-Lista06-Datatime-Switch\obj\Debug\net10.0\ref\C#-Lista06-Datatime-Switch.dll

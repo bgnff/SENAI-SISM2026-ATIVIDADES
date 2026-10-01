@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\EBB2NL309\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista06-Datatime-Switch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66E7DB75-F28C-48FD-81ED-59B2B3C0FB9A}|C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch.csproj|c:\\users\\ebb2nl309\\desktop\\senai-sism2026-atividades\\c#-activities\\c#-lista06-datatime-switch\\c#-lista06-datatime-switch\\atividades\\e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E7DB75-F28C-48FD-81ED-59B2B3C0FB9A}|C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch.csproj|solutionrelative:c#-lista06-datatime-switch\\atividades\\e.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E7DB75-F28C-48FD-81ED-59B2B3C0FB9A}|C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch.csproj|c:\\users\\ebb2nl309\\desktop\\senai-sism2026-atividades\\c#-activities\\c#-lista06-datatime-switch\\c#-lista06-datatime-switch\\menuprincipal\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E7DB75-F28C-48FD-81ED-59B2B3C0FB9A}|C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch.csproj|solutionrelative:c#-lista06-datatime-switch\\menuprincipal\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E7DB75-F28C-48FD-81ED-59B2B3C0FB9A}|C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch.csproj|c:\\users\\ebb2nl309\\desktop\\senai-sism2026-atividades\\c#-activities\\c#-lista06-datatime-switch\\c#-lista06-datatime-switch\\atividades\\d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E7DB75-F28C-48FD-81ED-59B2B3C0FB9A}|C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch.csproj|solutionrelative:c#-lista06-datatime-switch\\atividades\\d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E7DB75-F28C-48FD-81ED-59B2B3C0FB9A}|C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch.csproj|c:\\users\\ebb2nl309\\desktop\\senai-sism2026-atividades\\c#-activities\\c#-lista06-datatime-switch\\c#-lista06-datatime-switch\\atividades\\c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E7DB75-F28C-48FD-81ED-59B2B3C0FB9A}|C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch.csproj|solutionrelative:c#-lista06-datatime-switch\\atividades\\c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E7DB75-F28C-48FD-81ED-59B2B3C0FB9A}|C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch.csproj|c:\\users\\ebb2nl309\\desktop\\senai-sism2026-atividades\\c#-activities\\c#-lista06-datatime-switch\\c#-lista06-datatime-switch\\atividades\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E7DB75-F28C-48FD-81ED-59B2B3C0FB9A}|C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch.csproj|solutionrelative:c#-lista06-datatime-switch\\atividades\\a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66E7DB75-F28C-48FD-81ED-59B2B3C0FB9A}|C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch.csproj|c:\\users\\ebb2nl309\\desktop\\senai-sism2026-atividades\\c#-activities\\c#-lista06-datatime-switch\\c#-lista06-datatime-switch\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66E7DB75-F28C-48FD-81ED-59B2B3C0FB9A}|C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch.csproj|solutionrelative:c#-lista06-datatime-switch\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "E.cs",
+              "DocumentMoniker": "C:\\Users\\EBB2NL309\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch\\Atividades\\E.cs",
+              "RelativeDocumentMoniker": "C#-Lista06-Datatime-Switch\\Atividades\\E.cs",
+              "ToolTip": "C:\\Users\\EBB2NL309\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch\\Atividades\\E.cs*",
+              "RelativeToolTip": "C#-Lista06-Datatime-Switch\\Atividades\\E.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T13:56:35.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "D.cs",
+              "DocumentMoniker": "C:\\Users\\EBB2NL309\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch\\Atividades\\D.cs",
+              "RelativeDocumentMoniker": "C#-Lista06-Datatime-Switch\\Atividades\\D.cs",
+              "ToolTip": "C:\\Users\\EBB2NL309\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch\\Atividades\\D.cs",
+              "RelativeToolTip": "C#-Lista06-Datatime-Switch\\Atividades\\D.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwDQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T13:18:07.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "C.cs",
+              "DocumentMoniker": "C:\\Users\\EBB2NL309\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch\\Atividades\\C.cs",
+              "RelativeDocumentMoniker": "C#-Lista06-Datatime-Switch\\Atividades\\C.cs",
+              "ToolTip": "C:\\Users\\EBB2NL309\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch\\Atividades\\C.cs",
+              "RelativeToolTip": "C#-Lista06-Datatime-Switch\\Atividades\\C.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T12:31:12.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "A.cs",
+              "DocumentMoniker": "C:\\Users\\EBB2NL309\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch\\Atividades\\A.cs",
+              "RelativeDocumentMoniker": "C#-Lista06-Datatime-Switch\\Atividades\\A.cs",
+              "ToolTip": "C:\\Users\\EBB2NL309\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch\\Atividades\\A.cs",
+              "RelativeToolTip": "C#-Lista06-Datatime-Switch\\Atividades\\A.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:44:20.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\EBB2NL309\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch\\MenuPrincipal\\Menu.cs",
+              "RelativeDocumentMoniker": "C#-Lista06-Datatime-Switch\\MenuPrincipal\\Menu.cs",
+              "ToolTip": "C:\\Users\\EBB2NL309\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch\\MenuPrincipal\\Menu.cs",
+              "RelativeToolTip": "C#-Lista06-Datatime-Switch\\MenuPrincipal\\Menu.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:33:13.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\EBB2NL309\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch\\Main\\Program.cs",
+              "RelativeDocumentMoniker": "C#-Lista06-Datatime-Switch\\Main\\Program.cs",
+              "ToolTip": "C:\\Users\\EBB2NL309\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch\\Main\\Program.cs",
+              "RelativeToolTip": "C#-Lista06-Datatime-Switch\\Main\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-01T11:31:18.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

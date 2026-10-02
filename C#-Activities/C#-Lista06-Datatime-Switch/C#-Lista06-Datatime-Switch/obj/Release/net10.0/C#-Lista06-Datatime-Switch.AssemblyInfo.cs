@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#-Lista06-Datatime-Switch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07bab1dd963b40396bc39f606fb1950f13d9be00")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+479210deedc292e42476b93db40f21b79666d6aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#-Lista06-Datatime-Switch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C#-Lista06-Datatime-Switch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

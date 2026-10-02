@@ -18,6 +18,7 @@ namespace C__Lista06_Datatime_Switch.Atividades
             string input = Console.ReadLine();
 
             if (DateTime.TryParseExact(input, "dd/MM/yyyy", CultureInfo.GetCultureInfo("pt-BR"), DateTimeStyles.None, out DateTime data))
+ 
             // DateTime.TryParseExact tenta converter a string de entrada em um objeto DateTime usando o formato especificado e a cultura "pt-BR".
             // CultureInfo.GetCultureInfo("pt-BR") especifica que a cultura utilizada para interpretar a data é a brasileira, garantindo que o formato de data seja corretamente reconhecido.
             //DateTimeStyles.None indica que não há estilos adicionais a serem aplicados durante a conversão.
@@ -32,6 +33,12 @@ namespace C__Lista06_Datatime_Switch.Atividades
 
                     dia = char.ToUpper(dia[0]) + dia.Substring(1);
                 // char.ToUpper(dia[0]) + dia.Substring(1) transforma a primeira letra do dia da semana em maiúscula, mantendo o restante da string inalterado.
+
+
+            {
+                string dia = data.ToString("dddd", CultureInfo.GetCultureInfo("pt-BR"));
+                if (!string.IsNullOrEmpty(dia))
+                    dia = char.ToUpper(dia[0]) + dia.Substring(1);
 
 
                 Console.WriteLine($"A data {data:dd/MM/yyyy} cai em: {dia}.");

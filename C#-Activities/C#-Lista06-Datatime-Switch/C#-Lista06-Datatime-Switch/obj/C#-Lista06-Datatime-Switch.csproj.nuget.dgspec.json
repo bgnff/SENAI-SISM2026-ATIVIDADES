@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EBB2NL309\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch.csproj": {}
+    "C:\\Users\\EBB2NL314\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EBB2NL309\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch.csproj": {
+    "C:\\Users\\EBB2NL314\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EBB2NL309\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch.csproj",
+        "projectUniqueName": "C:\\Users\\EBB2NL314\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch.csproj",
         "projectName": "C#-Lista06-Datatime-Switch",
-        "projectPath": "C:\\Users\\EBB2NL309\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch.csproj",
-        "packagesPath": "C:\\Users\\EBB2NL309\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\EBB2NL309\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch\\obj\\",
+        "projectPath": "C:\\Users\\EBB2NL314\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch.csproj",
+        "packagesPath": "C:\\Users\\EBB2NL314\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\EBB2NL314\\Desktop\\SENAI-SISM2026-ATIVIDADES\\C#-Activities\\C#-Lista06-Datatime-Switch\\C#-Lista06-Datatime-Switch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\EBB2NL309\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\EBB2NL314\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

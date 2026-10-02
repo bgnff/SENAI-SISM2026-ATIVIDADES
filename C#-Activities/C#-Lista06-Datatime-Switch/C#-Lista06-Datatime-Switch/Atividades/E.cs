@@ -28,7 +28,7 @@ namespace C__Lista06_Datatime_Switch.Atividades
                 case "1":
                     Console.WriteLine("Acesse meu github!");
 
-                    Process.Start(new ProcessStartInfo
+                    Process.Start(new ProcessStartInfo // Abrir o link do GitHub no navegador padrão
                     {
                         FileName = "https://github.com/bgnff",
                         UseShellExecute = true
@@ -39,9 +39,13 @@ namespace C__Lista06_Datatime_Switch.Atividades
                     Console.WriteLine("Acesse o meu Linkedin");
 
                     Process.Start(new ProcessStartInfo
+                    // Abrir o link do LinkedIn no navegador padrão
                     {
                         FileName = "https://www.linkedin.com/in/brayan-oliveira-955242351?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
-                        UseShellExecute = true
+                        // FileName direciona para o link do LinkedIn
+                        UseShellExecute = true 
+                        // UseShellExecute é definido como true para abrir o link no navegador padrão do sistema em que o programa está sendo executado.
+
                     });
 
                     break;

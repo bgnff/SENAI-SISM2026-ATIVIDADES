@@ -20,8 +20,9 @@ namespace C__Lista06_Datatime_Switch.Atividades
                 Console.WriteLine();
                 Console.WriteLine("Digite uma data (formato: dd/MM/yyyy):");
                 DateTime data = DateTime.ParseExact(Console.ReadLine(), "dd/MM/yyyy", new CultureInfo("pt-BR"));
+                    // Função usada para converter a string digitada pelo usuário em um objeto DateTime, usando o formato "dd/MM/yyyy" e a cultura "pt-BR" (português do Brasil).
 
-                        DateTime[] feriados = {
+                    DateTime[] feriados = { // Array de datas que representam os feriados nacionais do Brasil
                     new DateTime(data.Year, 1, 1),
                     new DateTime(data.Year, 4, 21),
                     new DateTime(data.Year, 5, 1),
@@ -33,7 +34,8 @@ namespace C__Lista06_Datatime_Switch.Atividades
                     new DateTime(data.Year, 12, 25)
                 };
 
-                if (feriados.Contains(data))
+                if (feriados.Contains(data)) // .Contains() é um método que verifica se um determinado elemento está presente em uma coleção 
+                                             // feriados.Contains(data) verifica se a data digitada pelo usuário está presente no array de feriados. Se estiver, significa que é um feriado nacional.
                     {
                         Console.WriteLine("É feriado!");
                         validacao = true;
@@ -45,7 +47,7 @@ namespace C__Lista06_Datatime_Switch.Atividades
                     }
 
             }
-            catch (FormatException)
+            catch (FormatException) // Captura o erro de formato caso o usuário digite uma data inválida ou em um formato diferente do esperado.
                 {
 
                     Console.WriteLine("Data inválida! Digite no formato dd/MM/yyyy.");

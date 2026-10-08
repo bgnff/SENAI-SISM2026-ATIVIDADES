@@ -57,6 +57,8 @@ namespace C__Lista06_Datatime_Switch.MenuPrincipal
             Console.WriteLine("6 - Atividade F");
             Console.WriteLine("7 - Atividade G");
             Console.WriteLine("8 - Atividade H");
+            Console.WriteLine("9 - Atividade I");
+            Console.WriteLine("10 - Atividade J");
             Console.WriteLine("0 - Sair");
             Console.WriteLine("====================================");
             Console.WriteLine();
@@ -91,7 +93,15 @@ namespace C__Lista06_Datatime_Switch.MenuPrincipal
                 case "7":
                     Atividades.G.Executar();
                     break;
-
+                case "8":
+                    Atividades.H.Executar();
+                    break;
+                case "9":
+                    Atividades.I.Executar();
+                    break;
+                case "10":
+                    Atividades.J.Executar();
+                    break;
                 default:
                     Console.WriteLine("Opção inválida. Tente novamente.");
                     Thread.Sleep(1000);

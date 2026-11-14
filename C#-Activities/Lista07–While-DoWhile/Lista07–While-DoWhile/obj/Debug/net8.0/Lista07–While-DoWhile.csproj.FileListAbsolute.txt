@@ -1,0 +1,15 @@
+C:\Users\bgn\Desktop\Lista07–While-DoWhile\Lista07–While-DoWhile\bin\Debug\net8.0\Lista07–While-DoWhile.exe
+C:\Users\bgn\Desktop\Lista07–While-DoWhile\Lista07–While-DoWhile\bin\Debug\net8.0\Lista07–While-DoWhile.deps.json
+C:\Users\bgn\Desktop\Lista07–While-DoWhile\Lista07–While-DoWhile\bin\Debug\net8.0\Lista07–While-DoWhile.runtimeconfig.json
+C:\Users\bgn\Desktop\Lista07–While-DoWhile\Lista07–While-DoWhile\bin\Debug\net8.0\Lista07–While-DoWhile.dll
+C:\Users\bgn\Desktop\Lista07–While-DoWhile\Lista07–While-DoWhile\bin\Debug\net8.0\Lista07–While-DoWhile.pdb
+C:\Users\bgn\Desktop\Lista07–While-DoWhile\Lista07–While-DoWhile\obj\Debug\net8.0\Lista07–While-DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bgn\Desktop\Lista07–While-DoWhile\Lista07–While-DoWhile\obj\Debug\net8.0\Lista07–While-DoWhile.AssemblyInfoInputs.cache
+C:\Users\bgn\Desktop\Lista07–While-DoWhile\Lista07–While-DoWhile\obj\Debug\net8.0\Lista07–While-DoWhile.AssemblyInfo.cs
+C:\Users\bgn\Desktop\Lista07–While-DoWhile\Lista07–While-DoWhile\obj\Debug\net8.0\Lista07–While-DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\bgn\Desktop\Lista07–While-DoWhile\Lista07–While-DoWhile\obj\Debug\net8.0\Lista07–While-DoWhile.dll
+C:\Users\bgn\Desktop\Lista07–While-DoWhile\Lista07–While-DoWhile\obj\Debug\net8.0\refint\Lista07–While-DoWhile.dll
+C:\Users\bgn\Desktop\Lista07–While-DoWhile\Lista07–While-DoWhile\obj\Debug\net8.0\Lista07–While-DoWhile.pdb
+C:\Users\bgn\Desktop\Lista07–While-DoWhile\Lista07–While-DoWhile\obj\Debug\net8.0\Lista07–While-DoWhile.genruntimeconfig.cache
+C:\Users\bgn\Desktop\Lista07–While-DoWhile\Lista07–While-DoWhile\obj\Debug\net8.0\ref\Lista07–While-DoWhile.dll
+C:\Users\bgn\Desktop\Lista07–While-DoWhile\Lista07–While-DoWhile\obj\Debug\net8.0\Lista07_.30F446F4.Up2Date
